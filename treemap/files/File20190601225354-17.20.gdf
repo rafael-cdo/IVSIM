@@ -1,0 +1,113 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+Laptop,10.40591868642,10.40591868642
+Less Than,121.88978686251,121.88978686251
+Repository,25.80690638619,25.80690638619
+Linux,17.55903203523,17.55903203523
+Brainstorm,0.155239821,0.155239821
+Solutions,314.98173894015,314.98173894015
+Most,0,0
+Firefox,1.79504847144,1.79504847144
+Default,29.45773562481,29.45773562481
+Smoothing,26.38141784694,26.38141784694
+Half,0.6938258229,0.6938258229
+Download,27.10275066693,27.10275066693
+Make,0.29912209902,0.29912209902
+Very Helpful,4.66972755849,4.66972755849
+Image,11.84141788155,11.84141788155
+Ubuntu,1.09392316992,1.09392316992
+Computer,45.69183571122,45.69183571122
+Program,0.04782969,0.04782969
+Times,0.39023194401,0.39023194401
+Prompt,0.0729,0.0729
+Make:,0.1627887699,0.1627887699
+Auto,0.10687869,0.10687869
+Box,8.95423821111,8.95423821111
+Algorithm,1550.7376227279,1550.7376227279
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Image,Download,4
+Default,Less Than,15
+Algorithm,Laptop,62
+Less Than,Linux,4
+Computer,Box,10
+Solutions,Smoothing,43
+Algorithm,Make:,4
+Algorithm,Linux,116
+Laptop,Computer,72
+Solutions,Image,17
+Less Than,Laptop,19
+Solutions,Very Helpful,10
+Default,Auto,2
+Repository,Very Helpful,2
+Repository,Image,4
+Image,Very Helpful,2
+Half,Auto,2
+Less Than,Half,2
+Solutions,Download,48
+Solutions,Firefox,2
+Image,Smoothing,8
+Laptop,Box,4
+Repository,Firefox,4
+Repository,Download,20
+Download,Firefox,4
+Algorithm,Firefox,7
+Algorithm,Download,348
+Linux,Make,4
+Computer,Make,4
+Default,Computer,20
+Less Than,Download,18
+Linux,Ubuntu,22
+Linux,Auto,2
+Repository,Linux,8
+Computer,Auto,2
+Algorithm,Very Helpful,17
+Less Than,Smoothing,13
+Solutions,Linux,30
+Algorithm,Image,97
+Less Than,Image,8
+Solutions,Laptop,19
+Algorithm,Smoothing,334
+Algorithm,Solutions,1204
+Download,Smoothing,16
+Default,Box,2
+Less Than,Computer,26
+Default,Download,4
+Solutions,Repository,48
+Laptop,Linux,11
+Algorithm,Computer,469
+Solutions,Ubuntu,4
+Repository,Ubuntu,4
+Solutions,Make,8
+Computer,Linux,50
+Less Than,Box,11
+Computer,Make:,4
+Ubuntu,Make,8
+Box,Download,8
+Algorithm,Default,72
+Default,Image,2
+Default,Smoothing,10
+Repository,Less Than,6
+Solutions,Less Than,196
+Algorithm,Box,44
+Algorithm,Less Than,236
+Linux,Smoothing,2
+Computer,Smoothing,8
+Solutions,Box,23
+Repository,Box,2
+Laptop,Firefox,2
+Default,Laptop,4
+Laptop,Download,26
+Default,Linux,9
+Solutions,Default,40
+Computer,Very Helpful,4
+Repository,Default,6
+Computer,Image,13
+Repository,Computer,12
+Algorithm,Make,4
+Firefox,Ubuntu,4
+Solutions,Computer,102
+Algorithm,Ubuntu,8
+Laptop,Image,4
+Algorithm,Repository,75
+Linux,Firefox,6
+Linux,Download,38
+Computer,Download,66

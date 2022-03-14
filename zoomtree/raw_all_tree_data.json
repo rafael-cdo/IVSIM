@@ -1,0 +1,92 @@
+{
+  "downward": {
+    "direction": "downward",
+    "name": "origin",
+    "children": [
+      {
+        "name": "Key 1",
+        "children": [
+          {
+            "name": "Paper 1",
+            "children": []
+          },
+          {
+            "name": "Paper 2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Key 2",
+        "children": [
+          {
+            "name": "Paper 3",
+            "children": []
+          },
+          {
+            "name": "Paper 4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Key 3",
+        "children": [
+          {
+            "name": "Paper 5",
+            "children": []
+          },
+          {
+            "name": "Paper 6",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "upward": {
+    "direction": "upward",
+    "name": "origin",
+    "children": [
+      {
+        "name": "Key 1",
+        "children": [
+          {
+            "name": "Idea 1",
+            "children": []
+          },
+          {
+            "name": "Idea 2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Key 2",
+        "children": [
+          {
+            "name": "Idea 3",
+            "children": []
+          },
+          {
+            "name": "Idea 4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Key 3",
+        "children": [
+          {
+            "name": "Idea 4",
+            "children": []
+          },
+          {
+            "name": "Idea 5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

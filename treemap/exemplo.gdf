@@ -1,0 +1,9 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+s1,50,50
+s2,280,280
+s3,74,74
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+s1,s2,1.2341
+s2,s3,0.453
+s3,s2, 2.34
+s3,s1, 0.871

@@ -1,0 +1,663 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+Graphics,9.86220808101,9.86220808101
+Less Than,121.88978686251,121.88978686251
+Codec,7.27933865616,7.27933865616
+refresh,0.14661,0.14661
+Ability,24.48470267001,24.48470267001
+Code,3.50847280386,3.50847280386
+Native resolution,0.08269753401,0.08269753401
+Awesome,0.41086425501,0.41086425501
+Experience,87.13460328048,87.13460328048
+Documentation,12.27208030803,12.27208030803
+One,0,0
+Knowledge,4.52760808581,4.52760808581
+Most,0,0
+Default,29.45773562481,29.45773562481
+MP3,6.06531611718,6.06531611718
+Booting,3.09885962544,3.09885962544
+HTTP,1.86186897684,1.86186897684
+Frustration,6.00152830965,6.00152830965
+interest,52.88868159498,52.88868159498
+Video,6.40255721643,6.40255721643
+Play,52.79796669897,52.79796669897
+Login,5.84712010818,5.84712010818
+Database,113.37347565072,113.37347565072
+Back,10.35074241819,10.35074241819
+Aspect Ratio,10.713956535,10.713956535
+ReBoot,0.2070441,0.2070441
+Download,27.10275066693,27.10275066693
+HTML,6.3183918654,6.3183918654
+keyboard,4.30730053542,4.30730053542
+Memory,0.764138853,0.764138853
+KeY,1.66990244283,1.66990244283
+Make,0.29912209902,0.29912209902
+SANE,0.40148379,0.40148379
+FreeBSD,0.68860850193,0.68860850193
+BETA,0.108656721,0.108656721
+USB,4.42107219195,4.42107219195
+Hand,58.05685130157,58.05685130157
+Sudo,0.3031911,0.3031911
+net,0.14650989291,0.14650989291
+Expected,0.03486784401,0.03486784401
+ROOT,0.241990821,0.241990821
+Multi-monitor,0.4070555289,0.4070555289
+Launchpad,0.40738869,0.40738869
+FINE,0,0
+Version,26.87555303811,26.87555303811
+Forced,2.32690346568,2.32690346568
+Internet,93.99575088495,93.99575088495
+Computer,45.69183571122,45.69183571122
+Refresh rate,2.57903114265,2.57903114265
+Ubuntu,1.09392316992,1.09392316992
+A-MAC,0.264095721,0.264095721
+Go!,0.043046721,0.043046721
+Prompt,0.0729,0.0729
+Definition,3.92525653644,3.92525653644
+Make:,0.1627887699,0.1627887699
+Typing,7.25118562638,7.25118562638
+Utility,56.77068038076,56.77068038076
+Command-line interface,2.84052345813,2.84052345813
+SMART,1.90313987652,1.90313987652
+HTTPS,1.7317911699,1.7317911699
+Is-a,1.03396717161,1.03396717161
+PREview,0.06561,0.06561
+Box,8.95423821111,8.95423821111
+Video card,1.21079798163,1.21079798163
+Heron,0.61511574393,0.61511574393
+Ratio,265.91285448945,265.91285448945
+Multimedia,27.69906830931,27.69906830931
+Laptop,10.40591868642,10.40591868642
+Geek,0.24430094181,0.24430094181
+machine,5.32046637837,5.32046637837
+Solutions,314.98173894015,314.98173894015
+Linux,17.55903203523,17.55903203523
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Default,Multimedia,16
+Play,keyboard,13
+Internet,MP3,26
+Linux,FreeBSD,57
+Default,Less Than,30
+Solutions,net,4
+Utility,Back,2
+Computer,FreeBSD,4
+Ratio,Ability,8
+Utility,machine,2
+Solutions,Login,20
+Ability,interest,23
+Video,Is-a,6
+Definition,USB,2
+Ratio,Hand,37
+Linux,Code,6
+Utility,Linux,18
+Ratio,Download,12
+Default,Utility,14
+Utility,Booting,2
+Database,MP3,11
+keyboard,Multi-monitor,2
+Laptop,MP3,5
+Login,HTTP,2
+Version,Code,4
+Download,interest,18
+Experience,Make,16
+Less Than,Linux,24
+Computer,Box,20
+interest,Heron,6
+Play,Graphics,2
+Computer,Experience,208
+Less Than,Back,4
+Less Than,machine,4
+Video,Video card,12
+keyboard,Forced,2
+Login,ROOT,2
+Solutions,Ratio,206
+Utility,interest,19
+Play,Ability,21
+interest,MP3,4
+Laptop,Computer,144
+Command-line interface,Box,4
+Experience,Video,45
+Ratio,keyboard,2
+Graphics,HTML,4
+Forced,Definition,4
+Less Than,Laptop,38
+Laptop,Booting,3
+Version,HTML,6
+Play,Download,20
+machine,Forced,2
+Computer,KeY,4
+Solutions,SANE,2
+Linux,HTTPS,12
+Less Than,Database,52
+Command-line interface,Experience,2
+Ability,Heron,6
+Internet,Command-line interface,18
+HTML,keyboard,2
+Solutions,SMART,10
+Box,Aspect Ratio,2
+Play,Hand,19
+Default,Definition,4
+Experience,Login,8
+Solutions,Video card,2
+Computer,HTTPS,4
+Internet,Linux,246
+Database,Back,2
+Database,Version,32
+Download,Version,30
+Database,machine,8
+Frustration,interest,10
+Graphics,KeY,2
+Database,Documentation,29
+Solutions,Play,43
+Play,Utility,4
+Hand,Heron,6
+Internet,Computer,604
+Solutions,HTTP,12
+Computer,Forced,16
+Typing,Internet,12
+Computer,Refresh rate,8
+Typing,Database,26
+Video,Login,6
+Internet,Booting,4
+Utility,Database,74
+Database,Booting,6
+Linux,HTML,27
+Utility,MP3,4
+Play,Frustration,2
+Login,Aspect Ratio,2
+Typing,Laptop,4
+Booting,ReBoot,4
+Database,Computer,218
+Solutions,Make,16
+Internet,Documentation,42
+Play,Less Than,60
+Ratio,Graphics,8
+Solutions,ROOT,2
+Command-line interface,USB,2
+HTML,Definition,2
+Play,Multimedia,32
+Internet,Version,66
+Less Than,interest,46
+Database,Linux,66
+Computer,HTML,30
+Default,keyboard,2
+Database,HTML,52
+Computer,Linux,300
+Internet,ReBoot,4
+Less Than,Box,22
+Computer,Make:,16
+Download,HTML,32
+Default,HTTP,4
+Play,Video,6
+Internet,Forced,4
+Internet,Refresh rate,4
+Typing,Code,2
+Utility,USB,2
+Default,Is-a,4
+Booting,machine,2
+Experience,Ability,25
+Internet,Default,50
+Computer,Booting,20
+Box,Multimedia,20
+Booting,Documentation,2
+Hand,Refresh rate,2
+Hand,Forced,12
+Utility,Code,2
+Linux,Version,27
+Linux,Back,6
+Play,Login,2
+Experience,Hand,54
+Linux,Documentation,12
+Booting,Linux,48
+Database,Forced,2
+Command-line interface,Database,8
+Computer,Documentation,28
+Download,Forced,4
+Solutions,keyboard,10
+Play,Codec,2
+HTML,SMART,2
+Computer,machine,28
+Utility,FreeBSD,2
+Computer,Version,62
+Less Than,Experience,88
+Experience,Download,34
+Internet,HTML,114
+Computer,Back,4
+Ubuntu,Make,72
+Utility,Experience,52
+Video,Hand,12
+Download,HTTPS,8
+HTML,HTTP,12
+Box,Download,8
+Typing,Experience,6
+Laptop,Forced,4
+Ability,HTML,2
+Documentation,Back,2
+Box,Hand,12
+Multimedia,FreeBSD,4
+Graphics,Version,4
+Solutions,Graphics,19
+Version,Documentation,4
+Version,machine,2
+HTML,Is-a,2
+Version,Back,4
+Database,KeY,5
+Internet,KeY,4
+Box,Ability,2
+Experience,Multimedia,62
+Less Than,USB,4
+Solutions,Definition,12
+Multimedia,Code,12
+Experience,Frustration,19
+Typing,Box,2
+Laptop,HTML,2
+Ability,Forced,6
+Utility,Box,2
+Multimedia,USB,4
+Internet,HTTPS,32
+interest,Forced,14
+Solutions,Hand,45
+Play,SMART,2
+Multimedia,Refresh rate,4
+Box,Graphics,4
+Multimedia,Forced,8
+Utility,HTTPS,2
+Database,Experience,70
+Internet,Box,32
+Experience,keyboard,8
+Less Than,Forced,16
+Play,SANE,2
+Solutions,Download,48
+Version,MP3,2
+MP3,Code,2
+Database,Box,6
+Less Than,HTML,8
+Internet,Experience,216
+Computer,interest,48
+Ratio,Codec,8
+interest,HTML,7
+Linux,interest,12
+Documentation,MP3,4
+Solutions,Ability,31
+Laptop,USB,14
+Ratio,Login,4
+HTML,Video,6
+Play,Ratio,21
+Video,Definition,6
+Multimedia,HTML,22
+Login,keyboard,2
+Solutions,Multimedia,172
+Database,USB,2
+Graphics,interest,4
+Download,USB,4
+Ratio,Aspect Ratio,45
+Command-line interface,Linux,30
+Computer,MP3,26
+Solutions,Less Than,392
+Version,interest,4
+Multimedia,Multi-monitor,4
+Command-line interface,Computer,22
+Download,Code,4
+Database,Code,2
+Laptop,Box,4
+Utility,HTML,10
+Default,Login,2
+Experience,Definition,20
+Internet,FreeBSD,4
+Solutions,Frustration,14
+Typing,HTML,5
+Linux,MP3,6
+Box,keyboard,4
+Utility,Forced,4
+Hand,Code,2
+Laptop,Experience,13
+Typing,Forced,2
+interest,KeY,2
+Solutions,Typing,19
+Play,HTTP,4
+Internet,Code,4
+Command-line interface,Documentation,2
+Solutions,Utility,67
+Login,Definition,2
+Experience,Graphics,6
+Video,keyboard,6
+Typing,Default,6
+Command-line interface,Version,4
+Internet,USB,4
+Experience,Forced,14
+Graphics,Codec,4
+Default,interest,25
+Less Than,keyboard,12
+Codec,Refresh rate,2
+Solutions,Experience,99
+Ratio,MP3,4
+Version,Codec,4
+Ratio,Laptop,2
+Database,Download,100
+Internet,Ability,22
+Utility,Graphics,4
+Multimedia,keyboard,24
+Database,Hand,21
+Ability,Multimedia,14
+Version,Login,2
+Laptop,Utility,8
+Download,Hand,8
+Internet,Hand,42
+Database,Ability,10
+Laptop,Multimedia,18
+Download,Ability,4
+Documentation,Video,6
+Internet,Download,352
+Ratio,Database,28
+Experience,HTML,10
+Utility,Definition,6
+Graphics,Video,6
+Solutions,Box,23
+Utility,Go!,6
+Typing,Definition,5
+Play,Command-line interface,4
+Version,Video,6
+Forced,MP3,2
+Database,Frustration,2
+Linux,Video,18
+Less Than,Definition,8
+Box,HTML,2
+interest,Knowledge,2
+Laptop,Ability,4
+Play,Linux,12
+Database,Multimedia,134
+Solutions,USB,4
+Ability,Hand,11
+interest,Definition,10
+Download,Multimedia,76
+Login,HTTPS,2
+Booting,Login,2
+Internet,Utility,128
+Default,Database,20
+Play,Computer,72
+Computer,Video,60
+Multimedia,Definition,8
+Solutions,Code,2
+Linux,Login,24
+Laptop,Hand,4
+Internet,Less Than,68
+Default,Laptop,4
+Version,Aspect Ratio,2
+keyboard,Video card,2
+Ratio,interest,18
+Computer,Codec,20
+Internet,Multimedia,412
+Play,Version,10
+Less Than,Graphics,8
+Play,Back,17
+Default,MP3,2
+Frustration,Definition,2
+Booting,Video,6
+Typing,keyboard,36
+Laptop,Download,26
+Computer,Login,26
+Utility,keyboard,4
+Box,Refresh rate,2
+Internet,Frustration,20
+Solutions,FreeBSD,2
+Utility,Multimedia,52
+Less Than,Ability,26
+Hand,keyboard,16
+Typing,Less Than,4
+Linux,Make,24
+Box,Code,2
+Frustration,Hand,5
+Linux,ROOT,12
+Typing,Multimedia,12
+Solutions,HTML,21
+Default,machine,4
+Video,Code,6
+Default,Version,27
+Utility,Frustration,2
+Play,MP3,6
+Internet,keyboard,24
+Experience,Box,6
+Laptop,Definition,2
+Default,Documentation,4
+Computer,Make,16
+Play,Laptop,9
+Solutions,Refresh rate,10
+Solutions,Forced,8
+Play,Database,12
+Computer,HTTP,16
+Less Than,Download,36
+Default,Computer,40
+Multimedia,Hand,26
+Default,Linux,27
+Database,keyboard,13
+interest,Hand,23
+Ability,Definition,4
+Ratio,Command-line interface,4
+Download,keyboard,4
+Less Than,Hand,68
+machine,SMART,2
+Solutions,Default,40
+Typing,Utility,10
+Graphics,Video card,23
+Linux,HTTP,6
+Frustration,Ability,2
+Laptop,Graphics,5
+Version,HTTP,2
+Ratio,Linux,12
+Default,Command-line interface,6
+Database,Graphics,10
+Typing,Hand,4
+Utility,Hand,17
+Linux,Video card,18
+Less Than,Utility,58
+Solutions,KeY,6
+Ratio,Computer,24
+Hand,Definition,2
+Laptop,keyboard,6
+Documentation,HTTP,2
+Computer,Video card,36
+Computer,SMART,12
+Internet,Definition,14
+Experience,FreeBSD,2
+Utility,Download,40
+interest,Multimedia,32
+Database,Definition,6
+Typing,Ability,2
+Codec,USB,2
+Ratio,Documentation,11
+Less Than,Multimedia,40
+Utility,Ability,6
+Internet,Graphics,22
+Codec,Code,4
+Linux,Ubuntu,297
+Play,interest,32
+Ratio,Back,2
+Booting,Video card,2
+Experience,Code,2
+Ratio,Version,18
+Solutions,Command-line interface,7
+Play,Box,4
+Experience,MP3,19
+Less Than,Video,12
+Ability,Is-a,2
+Codec,MP3,16
+Ratio,Refresh rate,2
+Hand,SMART,2
+Command-line interface,Ability,3
+Internet,Video card,4
+interest,Video,6
+Ability,HTTP,2
+Ratio,Default,18
+Multimedia,Video,84
+Computer,Definition,12
+Box,interest,2
+Internet,SMART,4
+Linux,Graphics,15
+Command-line interface,Hand,2
+Internet,Launchpad,4
+Database,SMART,6
+Multimedia,Codec,52
+Internet,Ratio,32
+Less Than,Login,12
+Database,Video card,2
+Frustration,Video,6
+Version,keyboard,3
+Video card,Multi-monitor,2
+interest,Login,6
+Command-line interface,Download,4
+Computer,Graphics,70
+Multimedia,Login,16
+machine,keyboard,2
+Play,Experience,31
+Less Than,Codec,4
+Multimedia,net,16
+Graphics,keyboard,2
+Database,Is-a,9
+Download,Is-a,4
+interest,Aspect Ratio,4
+Less Than,Aspect Ratio,30
+Solutions,Back,8
+Solutions,Version,43
+Solutions,machine,12
+Laptop,Video card,2
+Utility,Login,6
+Computer,keyboard,70
+Default,HTML,4
+Download,HTTP,12
+Typing,Login,4
+Solutions,Documentation,20
+Command-line interface,Utility,2
+Internet,Make,16
+Database,HTTP,2
+Solutions,Computer,204
+Internet,HTTP,70
+Ratio,KeY,2
+Experience,interest,58
+Internet,Play,62
+Default,Forced,8
+Command-line interface,Multimedia,4
+Solutions,Linux,90
+Hand,HTTP,2
+Utility,Video,6
+Video card,Refresh rate,4
+Solutions,Booting,2
+Solutions,Heron,12
+Booting,keyboard,2
+Internet,Is-a,4
+Version,Definition,2
+Typing,HTTP,2
+Download,Login,8
+Back,Hand,45
+Solutions,Internet,220
+Box,Documentation,4
+Database,Login,10
+Version,Hand,4
+Typing,Play,2
+Play,Default,7
+Box,Version,6
+machine,Hand,2
+Graphics,Hand,3
+Utility,HTTP,2
+Download,Codec,24
+Command-line interface,keyboard,2
+interest,SMART,4
+Ratio,Box,9
+Documentation,Hand,6
+Database,Codec,2
+Default,Code,2
+Solutions,Database,112
+Internet,Video,132
+Multimedia,SMART,8
+Play,Forced,6
+Typing,Is-a,4
+Solutions,Laptop,19
+Database,Video,45
+Linux,Frustration,12
+Download,Video,48
+Internet,Codec,32
+Ratio,Experience,17
+keyboard,Definition,2
+Solutions,MP3,7
+Hand,Login,2
+Computer,Multimedia,200
+Play,HTML,2
+Linux,Multimedia,96
+Internet,Login,46
+Computer,Frustration,10
+Default,Experience,15
+Solutions,interest,67
+Graphics,Multimedia,24
+Back,Multimedia,4
+Typing,Ratio,8
+Experience,Linux,27
+Ability,Login,2
+Version,Multimedia,20
+Computer,Ability,34
+Experience,Heron,6
+Laptop,Video,12
+Booting,Download,8
+Documentation,Multimedia,4
+HTTP,HTTPS,8
+Multimedia,HTTP,20
+Computer,Hand,78
+Linux,Download,114
+Play,HTTPS,2
+Laptop,Codec,2
+Computer,Download,132
+Ratio,Code,4
+Experience,Version,16
+Experience,machine,6
+Frustration,ROOT,2
+Experience,Documentation,26
+Linux,Hand,6
+Laptop,Login,3
+Default,Box,2
+HTML,Hand,2
+Solutions,Codec,6
+Command-line interface,Forced,2
+Internet,Laptop,58
+Booting,USB,4
+Experience,SMART,2
+Default,Frustration,2
+Utility,Version,4
+Hand,MP3,2
+Utility,Documentation,6
+Experience,Video card,2
+Typing,Version,4
+Utility,Computer,104
+Linux,USB,6
+Experience,Launchpad,2
+Laptop,interest,2
+Typing,Computer,50
+Internet,Database,310
+Solutions,Video,36
+Command-line interface,HTML,2
+Less Than,Command-line interface,8
+Computer,USB,16
+Download,MP3,12
+Default,Hand,11
+Play,Definition,2
+Database,interest,40
+Less Than,Computer,104
+Ratio,Utility,13
+Default,Download,4
+Less Than,Documentation,38
+Ratio,Less Than,418
+Command-line interface,KeY,2
+Less Than,Version,46
+Internet,interest,114
+Solutions,Aspect Ratio,23
+Ratio,Multimedia,26
+Ability,MP3,2
+Laptop,Database,14
+Default,Ability,4
+Ability,Documentation,3
+Multimedia,MP3,36
+Laptop,Linux,33
+keyboard,Code,4
+Computer,Multi-monitor,4
+Ability,Version,12
+Documentation,HTML,10
+Solutions,Ubuntu,18
+Less Than,MP3,24
+Codec,Video,21
+Solutions,Awesome,4

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<style>
+  body {
+    font: 14px sans-serif;
+    margin: 1%;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+
+  .bar {
+    fill: orange;
+  }
+
+  .bar:hover {
+    fill: orangered;
+  }
+
+  .x.axis path {
+    display: none;
+  }
+
+  .d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+  }
+
+  /* Creates a small triangle extender for the tooltip */
+  .d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+  }
+
+  /* Style northward tooltips differently */
+  .d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+  }
+</style>
+
+
+<script src="jquery.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="d3.tip.v0.6.3.js"></script>
+<script>
+  $(function () {
+    // Handle on-screen keyboard clicks (only on rects with a data-character
+    // attribute present)
+    $('svg rect[data-ano]').click(function () {
+      // Retrieve the "data-character" attribute value
+      var character = $(this).data('ano');
+      // Modify the value of the textarea by appending the character
+      alert(character);
+    });
+
+
+  });
+
+  var margin = { top: 40, right: 20, bottom: 30, left: 40 },
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+  var formatPercent = d3.format(".0%");
+
+  var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
+
+  var y = d3.scale.linear()
+    .range([height, 0]);
+
+  console.log(y);
+  var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+  var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+  var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function (d) {
+      return "<strong>Frequencia:</strong> <span style='color:red'>" + d.freq + "</span>";
+    })
+
+  var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  svg.call(tip);
+
+  // load the data
+  d3.json("load.php?keyword={keyword}", function (error, data) {
+
+    data.forEach(function (d) {
+      d.year = d.year;
+      d.freq = +d.freq;
+    });
+
+    // scale the range of the data
+    x.domain(data.map(function (d) { return d.year; }));
+    y.domain([0, d3.max(data, function (d) { return d.freq; })]);
+
+    
+
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+    svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis.ticks(10)
+        .tickFormat(d3.format(".1")))
+      .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Frequencia");
+
+
+    svg.selectAll(".bar")
+      .data(data)
+      .enter().append("rect")
+      .attr("class", "bar")
+      .attr("onclick", function (d) { return "atualizaGrid(" + d.year + ");"; })
+      .attr("x", function (d) { return x(d.year); })
+      .attr("width", x.rangeBand())
+      .attr("y", function (d) { return y(d.freq); })
+      .attr("height", function (d) { return height - y(d.freq); })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+
+  });
+
+  function type(d) {
+    d.freq = +d.freq;
+    return d;
+  }
+
+  function atualizaGrid(ano) {
+
+
+    $("#loader").show();
+    $.getJSON("load.php?keyword={keyword}&year=" + ano, function (result, status) {
+      var items = [];
+
+      $.each(result, function (key, val) {
+        //  console.log(val);
+        items.push("<tr>" +
+          "<th scope=\"row\">" + val['paper_id'] + "</th>" +
+          "<td>" + val['title'] + "</td>" +
+          "<td>" + val['keywords'] + "</td>" +
+          "<td>" + val['abstract'] + "</td>" +
+          "<td>" + val['year'] + "</td>" +
+          "</tr>");
+
+      });
+
+
+      if (status = "success") {
+        $("#tabela").empty();
+        $("#tabela").append(items);
+      }
+    }).fail(function (jqXHR, textStatus, err) {
+      alert('Erro ao carregar os papers');
+    }).always(function () { $("#loader").hide(); });;
+  }
+
+
+</script>
+<style>
+  #loader {
+    position: fixed;
+    top: 40%;
+    left: 40%;
+  }
+
+  rect{
+    cursor: pointer;
+  }
+</style>
+
+<body>
+  <div id="loader" style="display:none;"><img src="../images/load.gif" /></div>
+
+
+
+</body>

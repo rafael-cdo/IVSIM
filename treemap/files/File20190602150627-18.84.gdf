@@ -1,0 +1,17 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+Times,0.39023194401,0.39023194401
+Laptop,10.40591868642,10.40591868642
+Computer,45.69183571122,45.69183571122
+Default,29.45773562481,29.45773562481
+Smoothing,26.38141784694,26.38141784694
+Algorithm,1550.7376227279,1550.7376227279
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Algorithm,Computer,469
+Laptop,Computer,72
+Algorithm,Laptop,62
+Algorithm,Default,72
+Default,Smoothing,10
+Default,Computer,20
+Default,Laptop,4
+Algorithm,Smoothing,334
+Computer,Smoothing,8

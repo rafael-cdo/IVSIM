@@ -1,0 +1,682 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+Information,32.88224621979,32.88224621979
+Wine,6.79297042638,6.79297042638
+Love,9.22796307999,9.22796307999
+FOCUS,0.1712421,0.1712421
+Repository,25.80690638619,25.80690638619
+Codec,7.27933865616,7.27933865616
+Alien,0.780891921,0.780891921
+Software repository,2.27633387454,2.27633387454
+Ability,24.48470267001,24.48470267001
+Brainstorm,0.155239821,0.155239821
+Code,3.50847280386,3.50847280386
+Newbie,0.188846721,0.188846721
+Documentation,12.27208030803,12.27208030803
+Default,29.45773562481,29.45773562481
+Eclipse,7.58491297956,7.58491297956
+Max,3.3352549632,3.3352549632
+Firefox,1.79504847144,1.79504847144
+Xmx,0,0
+Google Translate,0.295944921,0.295944921
+Google Calendar,0,0
+eric,1.29369774672,1.29369774672
+Small,0.1845420489,0.1845420489
+See,0.45492071391,0.45492071391
+Source,0.30803075604,0.30803075604
+Thumbnail,0.27237473181,0.27237473181
+The Machine,1.22618879082,1.22618879082
+crippled,0.124046721,0.124046721
+Movies,7.39042818813,7.39042818813
+Download,27.10275066693,27.10275066693
+HTML,6.3183918654,6.3183918654
+KeY,1.66990244283,1.66990244283
+Make,0.29912209902,0.29912209902
+Inform,0.10047784401,0.10047784401
+Unity,1.77760725093,1.77760725093
+Very Helpful,4.66972755849,4.66972755849
+Sudo,0.3031911,0.3031911
+Picasa,0.0865717389,0.0865717389
+Gtk#,0.5283751176,0.5283751176
+Numbers,7.0390178667,7.0390178667
+Icon,0.118098,0.118098
+Version,26.87555303811,26.87555303811
+Image,11.84141788155,11.84141788155
+Ubuntu,1.09392316992,1.09392316992
+The Current,26.51008692033,26.51008692033
+Licensing,0.36134976501,0.36134976501
+Switch,10.59245201934,10.59245201934
+WWW,2.2910645394,2.2910645394
+Prompt,0.0729,0.0729
+Hard Work,1.19343247992,1.19343247992
+Caption,1.25692292961,1.25692292961
+Make:,0.1627887699,0.1627887699
+Typing,7.25118562638,7.25118562638
+Reason,0.081,0.081
+Whole,0.2589795909,0.2589795909
+HTTPS,1.7317911699,1.7317911699
+Customize,21.56567855526,21.56567855526
+Build,0,0
+Is-a,1.03396717161,1.03396717161
+Dialog,4.23321247206,4.23321247206
+Requests,0,0
+Community,1.9843803,1.9843803
+Netbook,0.4453777386,0.4453777386
+Double-click,0,0
+Text,0.04782969,0.04782969
+Box,8.95423821111,8.95423821111
+Heron,0.61511574393,0.61511574393
+TO-3,0,0
+Pidgin,0.221049,0.221049
+MUD,2.63202276996,2.63202276996
+Apple,0.24191194401,0.24191194401
+Stadium,0,0
+Atom,4.88308247541,4.88308247541
+Multimedia,27.69906830931,27.69906830931
+Signature,24.98835664674,24.98835664674
+Evolution,9.6423891408,9.6423891408
+machine,5.32046637837,5.32046637837
+Iso,0.115946721,0.115946721
+Linux,17.55903203523,17.55903203523
+Service pack,0.059049,0.059049
+One,0,0
+Wiki,6.20544249405,6.20544249405
+Most,0,0
+Flickr,4.11824644569,4.11824644569
+Report,1.45468520784,1.45468520784
+Snow,0.79253647704,0.79253647704
+MP3,6.06531611718,6.06531611718
+BASIC,0.7612753167,0.7612753167
+Kernel,17.05084352253,17.05084352253
+Watch,0.169090821,0.169090821
+Yet another,3.73872739077,3.73872739077
+WEB,4.53930582807,4.53930582807
+HTTP,1.86186897684,1.86186897684
+Video,6.40255721643,6.40255721643
+Linux kernel oops,0.059049,0.059049
+Leopard,1.50583472982,1.50583472982
+Address,0,0
+Memory,0.764138853,0.764138853
+VirtualBox,0.0774840978,0.0774840978
+GNOME,0.20194758,0.20194758
+BETA,0.108656721,0.108656721
+Hyperlink,4.11613583922,4.11613583922
+Logo,2.84625511056,2.84625511056
+Launchpad,0.40738869,0.40738869
+FINE,0,0
+ERP,5.95451342997,5.95451342997
+Music,1.70677596501,1.70677596501
+BUNCH,0.27458323002,0.27458323002
+Move,0.0729,0.0729
+Rolling release,0.0729,0.0729
+Dynamics,0.762621642,0.762621642
+Program,0.04782969,0.04782969
+format,13.5223271253,13.5223271253
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Image,Download,48
+WEB,eric,4
+Default,Multimedia,80
+format,Ubuntu,264
+Love,Hard Work,2
+Video,Is-a,40
+Typing,Atom,2
+Image,Ability,48
+Repository,WWW,408
+Linux,Code,14
+Kernel,Signature,36
+Default,Hyperlink,10
+Atom,Movies,2
+Version,Movies,76
+Information,Version,1881
+Information,Documentation,54
+Yet another,FOCUS,4
+Love,WEB,2
+The Machine,Alien,2
+Customize,Hyperlink,8
+Version,Code,76
+Default,Eclipse,60
+Signature,Make,40
+Linux,Gtk#,14
+Information,Max,18
+Download,Wiki,48
+Customize,Multimedia,56
+Repository,Yet another,34
+Information,Evolution,54
+Download,The Machine,24
+Movies,Caption,2
+Default,Ability,120
+Video,WWW,48
+Love,Download,24
+Ability,Documentation,18
+format,Codec,28
+Multimedia,MP3,36
+Default,Kernel,60
+HTTP,Firefox,70
+Ability,Version,1368
+Love,Eclipse,4
+Documentation,HTML,10
+Repository,Software repository,1122
+Linux,Dialog,14
+Codec,Video,14
+Signature,Video,8
+Double-click,Dialog,2
+Wiki,MP3,4
+Evolution,Movies,2
+Version,HTML,114
+Eclipse,Alien,4
+Love,Ability,24
+Linux,HTTPS,28
+Signature,Yet another,8
+Repository,HTTP,476
+Wiki,Logo,4
+WWW,Caption,12
+The Current,WWW,72
+Typing,Information,18
+Ability,Whole,12
+Information,Wiki,162
+Ability,Heron,12
+Evolution,Flickr,2
+format,Video,80
+Default,Report,40
+Software repository,Hyperlink,4
+Multimedia,Logo,4
+Very Helpful,WEB,4
+ERP,Image,4
+Download,Version,3420
+Download,Atom,24
+Information,MP3,18
+Kernel,Dialog,6
+Multimedia,The Machine,4
+Max,Flickr,2
+Repository,Very Helpful,68
+format,WWW,96
+Video,Yet another,8
+Eclipse,machine,8
+Ability,Evolution,24
+HTML,WEB,22
+Eclipse,Version,76
+Box,Yet another,4
+MP3,Alien,2
+Eclipse,Documentation,4
+Customize,Kernel,48
+Multimedia,Wiki,16
+Repository,Ubuntu,1122
+Leopard,Box,4
+Linux,HTML,63
+Yet another,WWW,12
+The Current,Yet another,42
+Image,Report,8
+Customize,Numbers,8
+Ability,Music,24
+Version,Dialog,76
+Eclipse,Switch,4
+Repository,Image,136
+Eclipse,Heron,4
+Information,Logo,36
+Dialog,Google Calendar,2
+Max,Movies,2
+Repository,Caption,34
+WWW,HTTP,252
+Leopard,The Current,12
+Customize,WEB,4
+The Current,Newbie,12
+Documentation,Dialog,4
+Version,Evolution,114
+Download,HTML,192
+Default,HTTP,140
+Multimedia,Movies,42
+Typing,Code,2
+Firefox,HTTPS,10
+format,Eclipse,16
+Default,Is-a,200
+Documentation,Evolution,2
+HTML,Caption,2
+Box,Multimedia,40
+format,Download,192
+Love,Yet another,2
+Kernel,Evolution,6
+MUD,Whole,2
+Wiki,Flickr,4
+Ubuntu,VirtualBox,198
+Linux,Version,1197
+Multimedia,Signature,32
+Repository,Kernel,306
+Yet another,Unity,2
+Customize,Ubuntu,132
+Linux,Documentation,28
+Customize,VirtualBox,12
+Wiki,Signature,8
+Repository,WEB,136
+Image,Very Helpful,8
+Customize,Image,8
+format,Ability,96
+Version,Music,76
+Information,Code,18
+Multimedia,eric,4
+Max,The Machine,2
+Multimedia,Flickr,8
+format,Multimedia,184
+Information,The Current,540
+Information,Movies,18
+Is-a,WWW,120
+Ubuntu,Make,660
+Download,HTTPS,48
+HTML,HTTP,84
+Box,Download,96
+Ability,HTML,12
+Video,Unity,4
+Box,Eclipse,8
+Documentation,Atom,2
+The Current,Ability,396
+Version,Documentation,76
+Typing,format,16
+Information,Box,36
+Version,machine,76
+HTML,Is-a,20
+Default,Image,20
+Version,Atom,76
+Box,Ability,24
+Information,Signature,144
+Eclipse,Dialog,4
+Report,Alien,4
+Hyperlink,format,16
+Typing,The Current,12
+Customize,HTTP,84
+The Current,Unity,12
+Typing,Movies,2
+Information,Flickr,54
+Kernel,Documentation,6
+Multimedia,Code,12
+Information,format,432
+Typing,Box,4
+The Current,Download,288
+Kernel,Version,855
+Kernel,Atom,6
+The Current,Eclipse,24
+Kernel,machine,24
+Information,Dialog,36
+Kernel,MP3,6
+Download,Flickr,48
+Love,Image,4
+HTML,Yet another,2
+Download,Signature,48
+Linux,The Machine,14
+Video,WEB,4
+Alien,Whole,2
+Version,Logo,152
+Hyperlink,Dialog,2
+The Current,Report,48
+Image,Yet another,8
+Dialog,HTTP,14
+Wiki,HTML,8
+Version,MP3,38
+Customize,Codec,12
+MP3,Code,2
+Repository,Multimedia,646
+Dialog,BASIC,4
+Image,Video,16
+Typing,Dialog,2
+Download,Movies,24
+Documentation,MP3,4
+HTML,Video,4
+Kernel,Logo,6
+Multimedia,HTML,22
+format,Kernel,24
+HTML,WWW,222
+Default,Yet another,10
+Typing,Customize,4
+Download,Code,24
+Multimedia,Dialog,12
+format,Numbers,8
+Wiki,Dialog,4
+Documentation,Wiki,12
+Repository,Ability,408
+Signature,Report,8
+Information,Default,630
+Typing,HTML,5
+Repository,Firefox,340
+Yet another,Report,4
+Ability,Signature,24
+Information,Move,18
+Linux,MP3,14
+format,WEB,8
+Information,Customize,144
+machine,The Machine,4
+Signature,Numbers,8
+Hyperlink,HTML,29
+Customize,WWW,72
+Information,HTML,144
+Documentation,Wine,4
+Yet another,WEB,2
+HTTP,BASIC,28
+Repository,Download,2040
+Signature,WEB,4
+Ability,Movies,54
+Typing,Default,30
+Max,Alien,2
+Repository,Eclipse,68
+Customize,MP3,16
+The Current,Dialog,12
+Version,Codec,76
+Software repository,Version,190
+Version,Yet another,76
+format,HTML,80
+Information,Report,108
+Kernel,Video,12
+Ability,Multimedia,84
+Information,Kernel,108
+Hyperlink,WEB,8
+Default,The Machine,10
+Download,Firefox,120
+Typing,Double-click,2
+Kernel,Yet another,12
+Download,Ability,144
+Documentation,Video,4
+Eclipse,Firefox,40
+Software repository,Linux,28
+Signature,HTML,4
+Image,MP3,8
+Typing,Report,4
+Love,Alien,4
+Box,Dialog,8
+Information,WEB,36
+Brainstorm,Double-click,16
+Version,Video,76
+Multimedia,Double-click,4
+Version,WWW,228
+Linux,Video,28
+Repository,The Current,204
+Love,Reason,2
+Box,HTML,4
+Yet another,Dialog,2
+Love,Version,114
+Repository,Box,68
+Documentation,WWW,24
+Download,Multimedia,456
+Software repository,Evolution,6
+Max,Launchpad,2
+WEB,WWW,60
+format,Dialog,8
+Information,Hard Work,36
+Kernel,WWW,36
+Signature,KeY,4
+Customize,Wiki,8
+Wiki,WEB,8
+Repository,Signature,68
+Default,MP3,10
+Switch,Video,4
+Multimedia,WEB,20
+Repository,eric,34
+The Current,HTML,12
+ERP,The Current,12
+Image,The Machine,4
+Repository,format,1428
+Atom,Ubuntu,66
+format,Signature,40
+Linux,Make,140
+Box,Code,4
+Ability,WEB,12
+Signature,Movies,8
+Codec,Movies,2
+Information,Hyperlink,99
+Yet another,Movies,2
+Typing,Multimedia,12
+Default,machine,40
+Video,Code,4
+Default,Version,2565
+Ability,Numbers,12
+Default,Documentation,20
+Version,Caption,38
+format,Movies,8
+format,The Current,48
+Information,Multimedia,234
+Image,Max,4
+Typing,Hyperlink,2
+Kernel,Ubuntu,198
+Default,Linux,315
+Version,Very Helpful,76
+eric,Movies,2
+Repository,Linux kernel oops,68
+Linux,BASIC,56
+Movies,Code,2
+Double-click,BASIC,4
+Signature,eric,8
+Documentation,Very Helpful,4
+Image,Alien,8
+Yet another,eric,2
+Kernel,VirtualBox,18
+Yet another,Flickr,2
+Double-click,HTTP,14
+Linux,HTTP,98
+Kernel,Caption,6
+Hyperlink,Multimedia,14
+Version,HTTP,266
+Flickr,Picasa,2
+Download,WEB,72
+Version,BASIC,152
+Box,format,16
+Customize,Linux,98
+Documentation,HTTP,14
+Customize,Switch,4
+Information,Ability,324
+Download,Numbers,24
+Documentation,BASIC,4
+Typing,Eclipse,4
+WEB,HTTP,14
+Box,Signature,16
+Video,eric,4
+Repository,Default,510
+Hyperlink,Download,60
+Image,MUD,4
+Information,Unity,18
+Linux,VirtualBox,63
+WWW,HTTPS,24
+Image,Heron,4
+Repository,Customize,408
+Video,Movies,8
+The Current,Signature,48
+Eclipse,Report,16
+Logo,Report,4
+Customize,Version,152
+Typing,Ability,12
+Multimedia,TO-3,4
+Information,Eclipse,72
+Love,The Machine,2
+Repository,HTML,221
+Codec,Code,4
+Linux,Ubuntu,2541
+Customize,Documentation,8
+Movies,Flickr,2
+Information,Download,864
+Default,Max,10
+Wiki,Video,8
+Information,Repository,1836
+Yet another,MP3,2
+Linux,Report,28
+Typing,WWW,12
+Default,Linux kernel oops,20
+Repository,Linux,952
+Eclipse,Ubuntu,264
+Movies,The Machine,2
+Ability,Is-a,120
+Signature,MP3,4
+Codec,MP3,16
+Ability,HTTP,84
+Customize,Default,80
+Information,ERP,45
+Love,Signature,8
+Multimedia,Video,56
+Repository,Heron,34
+The Current,Wiki,24
+Default,Dialog,25
+Multimedia,Codec,52
+format,MP3,24
+Video,The Machine,4
+Linux,WEB,28
+Version,Inform,38
+Typing,Repository,34
+Information,WWW,972
+Multimedia,Yet another,4
+Hyperlink,WWW,96
+Customize,HTML,12
+Repository,Documentation,187
+Linux,Kernel,1470
+Atom,Netbook,2
+Repository,Version,4845
+Repository,Atom,34
+Love,The Current,36
+Love,Movies,2
+Documentation,WEB,2
+Signature,The Machine,4
+The Current,MP3,12
+Customize,Dialog,4
+Atom,Numbers,2
+Movies,MP3,4
+Download,Is-a,240
+Software repository,format,16
+Yet another,The Machine,2
+Hyperlink,Video,4
+Typing,Yet another,4
+Firefox,Ubuntu,330
+format,Wiki,16
+Dialog,Movies,2
+Version,WEB,114
+Information,Video,108
+Firefox,VirtualBox,30
+Default,HTML,20
+Video,Logo,4
+Default,Pidgin,20
+Download,HTTP,504
+Multimedia,WWW,108
+Information,Yet another,54
+Repository,Evolution,102
+eric,The Machine,2
+Customize,HTTPS,4
+machine,Report,8
+Eclipse,Make,40
+Version,Report,76
+Default,Dynamics,10
+Ability,Very Helpful,24
+Wiki,WWW,24
+Typing,HTTP,14
+Customize,Movies,4
+Signature,Alien,4
+Box,Documentation,8
+Eclipse,Yet another,4
+Code,Logo,2
+Typing,BASIC,4
+Box,Version,228
+Multimedia,Very Helpful,16
+Video,Thumbnail,4
+Image,eric,4
+Yet another,Alien,4
+Image,Flickr,4
+Download,Codec,144
+Yet another,Max,2
+Kernel,Ability,36
+Typing,Love,2
+Download,Yet another,72
+Image,Signature,8
+Customize,Box,8
+The Current,Whole,12
+Documentation,Unity,2
+Information,Software repository,36
+Default,Code,10
+Signature,Max,4
+Typing,Is-a,40
+Kernel,Firefox,30
+WEB,Firefox,20
+Download,Video,192
+Repository,Wiki,170
+Documentation,Firefox,10
+Love,Default,10
+HTML,Movies,2
+Hyperlink,Is-a,20
+Information,HTTP,126
+Box,Switch,4
+eric,Alien,2
+eric,Max,2
+The Current,Documentation,24
+Information,Is-a,360
+Hyperlink,HTTP,14
+Customize,format,64
+Linux,Multimedia,224
+Typing,Software repository,4
+Eclipse,Video,8
+Information,Love,36
+The Current,Version,912
+Image,Movies,12
+The Current,machine,24
+Image,The Current,96
+Multimedia,Caption,8
+Repository,MP3,34
+Default,Signature,20
+Linux,Firefox,210
+Image,Code,4
+Information,Very Helpful,36
+Switch,Unity,2
+Movies,Alien,2
+Version,Multimedia,380
+format,Version,988
+Default,format,240
+Typing,Image,4
+Version,TO-3,38
+format,Documentation,36
+Download,WWW,720
+Ability,Yet another,24
+Documentation,Multimedia,4
+Linux,Eclipse,56
+HTTP,HTTPS,56
+Multimedia,HTTP,140
+The Current,Evolution,24
+Default,Movies,20
+Hyperlink,Image,4
+Default,The Current,240
+Linux,Download,1596
+Kernel,Multimedia,66
+Video,Alien,4
+Multimedia,BASIC,8
+Information,Ubuntu,594
+Yet another,Thumbnail,2
+Video,Max,4
+Information,Image,72
+Repository,Logo,34
+Default,Box,20
+Signature,Small,16
+Multimedia,Alien,4
+Image,Eclipse,16
+Version,Signature,380
+Documentation,eric,2
+Information,Linux,252
+Customize,Firefox,20
+Multimedia,Max,4
+Customize,Ability,72
+Documentation,Signature,8
+Typing,Version,76
+Dialog,Numbers,2
+Movies,HTTP,14
+Hyperlink,Documentation,6
+format,Very Helpful,16
+Movies,BASIC,4
+Eclipse,MP3,4
+Hyperlink,Version,152
+The Current,BASIC,24
+Information,machine,36
+Kernel,Flickr,6
+HTML,Firefox,20
+Download,MP3,72
+Customize,Download,168
+format,HTTP,112
+Wiki,MUD,4
+Linux,The Current,84
+Double-click,Movies,2
+Default,Download,120
+Repository,Video,68
+Image,Multimedia,56
+Evolution,Dialog,4
+Video,Caption,8
+Linux,format,336
+Linux,eric,28
+Love,Report,8
+Multimedia,Thumbnail,4
+Ability,MP3,12
+Linux,Signature,28

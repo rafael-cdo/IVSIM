@@ -1,0 +1,23 @@
+<div style="margin-left:2%">
+    <div style="width: 100%;text-align: center"><h4>Grafo</h4></div>
+    <p >Através do método também é possível extrair informações para a criação de grafos.       
+    As informações extraídas correspondem ao cluster que está em análise. 
+    Foi utilizado o índice de atualidade para definir o tamanho do vértice, quanto maior o vértice, 
+    mais atual é o seu termo. Também foi utilizado o dado de coocorrência dos termos para definir 
+    a espessura da aresta, ou seja, termos que aparecem mais frequentemente nas publicações, 
+    se conectam por uma aresta mais espessa. Através desse grafo podemos facilmente identificar os 
+    termos mais atuais, com quais outros termos são conectados e também o grau de conexão entre eles. 
+    Neste método, você pode gerar o arquivo no formato GDF, 
+    nele consta a definição dos vértices e arestas dos grafos. 
+    Assim você fica livre para criar o grafo da forma que preferir.</p> 
+
+
+    <div > 
+        <img style="cursor:pointer;" onclick="window.open('graph.php?id={id}')"; src="../images/exportfile.png" alt="Grafo">
+        <p style="cursor:pointer;" onclick="window.open('graph.php?id={id}')";><strong>Clique aqui para exportar o Grafo do Cluster {cluster}</strong></p>
+    </div>
+    {grafo}
+    
+</div>
+<br>
+<hr>

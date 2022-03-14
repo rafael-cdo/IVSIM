@@ -1,0 +1,625 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+Information,32.88224621979,32.88224621979
+Blog,19.16826637365,19.16826637365
+Freedesktop.org,0.14661,0.14661
+Brainstorm,0.155239821,0.155239821
+Action,0.3155841,0.3155841
+Face,7.595955162,7.595955162
+Default,29.45773562481,29.45773562481
+benefit,367.73591212431,367.73591212431
+See,0.45492071391,0.45492071391
+WEB,4.53930582807,4.53930582807
+HTTP,1.86186897684,1.86186897684
+While,0.0531441,0.0531441
+interest,52.88868159498,52.88868159498
+Video,6.40255721643,6.40255721643
+Napster,0.151703442,0.151703442
+Login,5.84712010818,5.84712010818
+Zephyr,0.0977910489,0.0977910489
+Merge,19.55525661927,19.55525661927
+Hate,1.38812632371,1.38812632371
+HTML,6.3183918654,6.3183918654
+Thank You,3.36077213265,3.36077213265
+Index,61.9227496611,61.9227496611
+VirtualBox,0.0774840978,0.0774840978
+Make,0.29912209902,0.29912209902
+Action!,0.059049,0.059049
+GNOME,0.20194758,0.20194758
+BETA,0.108656721,0.108656721
+Office,0.0531441,0.0531441
+notification,15.08268155724,15.08268155724
+Gmail,1.0813004199,1.0813004199
+Mail,8.40404487924,8.40404487924
+net,0.14650989291,0.14650989291
+Launchpad,0.40738869,0.40738869
+PHP,3.22895679714,3.22895679714
+Icon,0.118098,0.118098
+Version,26.87555303811,26.87555303811
+Forced,2.32690346568,2.32690346568
+COOL,0.19443969,0.19443969
+ORGANIZER,3.88480587372,3.88480587372
+Internet,93.99575088495,93.99575088495
+Computer,45.69183571122,45.69183571122
+Libraries,39.28789300734,39.28789300734
+Instant messaging,4.32391210218,4.32391210218
+Ubuntu,1.09392316992,1.09392316992
+DARK,0.131949,0.131949
+A-MAC,0.264095721,0.264095721
+Program,0.04782969,0.04782969
+The Current,26.51008692033,26.51008692033
+Tooltip,0.338335542,0.338335542
+Go!,0.043046721,0.043046721
+Authentication,62.65125497898,62.65125497898
+opinion,0.3194961489,0.3194961489
+WWW,2.2910645394,2.2910645394
+Book,20.16098276364,20.16098276364
+Make:,0.1627887699,0.1627887699
+Facial Recognition,3.22029467397,3.22029467397
+Reason,0.081,0.081
+Webcam,3.50110867185,3.50110867185
+Empathy,1.77705909,1.77705909
+HTTPS,1.7317911699,1.7317911699
+Is-a,1.03396717161,1.03396717161
+Community,1.9843803,1.9843803
+Voice,12.58635811734,12.58635811734
+Gadu-Gadu,1.35470294775,1.35470294775
+Heron,0.61511574393,0.61511574393
+Email,152.65583298918,152.65583298918
+Pidgin,0.221049,0.221049
+File transfer,1.31347266066,1.31347266066
+Webmail,0.12096128601,0.12096128601
+Password,15.00494287185,15.00494287185
+Evolution,9.6423891408,9.6423891408
+Geek,0.24430094181,0.24430094181
+Road,0.0729,0.0729
+Books,24.39073214352,24.39073214352
+Linux,17.55903203523,17.55903203523
+Telepathy,0.12072969,0.12072969
+beryl,0.04782969,0.04782969
+Barcode,4.71671215776,4.71671215776
+One,0,0
+Watch,0.169090821,0.169090821
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Information,Computer,80
+notification,PHP,2
+notification,Instant messaging,16
+Brainstorm,Instant messaging,12
+notification,Authentication,18
+Default,Thank You,6
+benefit,interest,112
+Video,Is-a,4
+Instant messaging,Gmail,4
+The Current,Hate,2
+Email,Video,40
+interest,Evolution,16
+Default,Facial Recognition,6
+Information,Version,33
+interest,Mail,4
+Email,Webmail,28
+benefit,Information,27
+Voice,Libraries,2
+notification,Linux,7
+Index,Face,4
+Authentication,Gmail,6
+interest,Community,2
+notification,Mail,14
+Video,Barcode,4
+Internet,Information,43
+Computer,Gmail,4
+Login,HTTP,36
+Blog,interest,14
+benefit,Blog,14
+Computer,The Current,42
+Merge,Face,8
+Book,Merge,4
+Email,WWW,352
+interest,Heron,2
+Linux,The Current,2
+Libraries,Thank You,4
+Libraries,Webcam,6
+benefit,Internet,96
+Voice,Password,2
+Information,Voice,4
+Libraries,Facial Recognition,2
+Libraries,Gadu-Gadu,2
+Internet,interest,57
+Information,Evolution,24
+Computer,Face,8
+Information,Mail,4
+Book,WEB,8
+interest,Reason,2
+interest,Instant messaging,4
+interest,Authentication,14
+Index,Email,112
+Email,ORGANIZER,8
+Linux,Password,4
+Video,WWW,32
+Index,Forced,2
+benefit,Authentication,38
+Voice,The Current,2
+Authentication,HTML,10
+benefit,PHP,4
+benefit,Version,99
+Email,Barcode,16
+Index,Default,51
+notification,interest,8
+Password,File transfer,2
+Computer,Password,48
+Blog,Mail,8
+Version,HTML,18
+Computer,Napster,4
+Information,interest,14
+Linux,HTTPS,4
+Internet,Evolution,32
+The Current,WWW,8
+benefit,Heron,2
+Internet,Voice,10
+Index,Libraries,32
+benefit,Linux,26
+Index,HTML,8
+notification,Information,2
+Voice,Face,4
+Book,DARK,2
+Index,Books,19
+Default,Merge,36
+benefit,Community,4
+Internet,Mail,12
+Computer,HTTPS,4
+benefit,Computer,94
+Internet,Linux,41
+notification,Blog,2
+Book,Gadu-Gadu,2
+Books,WEB,4
+Gadu-Gadu,See,2
+Authentication,HTTPS,22
+Instant messaging,Napster,4
+Internet,Computer,302
+benefit,Mail,50
+Computer,Forced,16
+Blog,Authentication,10
+Libraries,WEB,4
+HTML,WEB,22
+Email,HTTP,192
+Index,Password,2
+benefit,Evolution,16
+Email,Hate,16
+Video,Login,12
+WEB,Napster,2
+benefit,Voice,17
+Blog,Instant messaging,20
+Login,ORGANIZER,6
+Index,Book,13
+Linux,Libraries,20
+Books,Merge,8
+Linux,HTML,9
+Email,Make,16
+Authentication,Password,440
+Information,Blog,16
+Libraries,Merge,16
+Instant messaging,Password,8
+Internet,Authentication,268
+Internet,Instant messaging,46
+WWW,HTTP,144
+Version,Password,18
+Computer,Libraries,92
+Internet,Version,99
+Book,Webcam,6
+The Current,Login,12
+Internet,PHP,12
+Computer,HTML,30
+Computer,Linux,100
+Merge,PHP,4
+Libraries,Ubuntu,20
+HTML,Barcode,2
+Libraries,Barcode,7
+Computer,Make:,4
+Version,Evolution,72
+Merge,Authentication,16
+Default,HTTP,72
+Instant messaging,Evolution,16
+Internet,Forced,2
+benefit,HTTPS,2
+benefit,Napster,2
+Books,Barcode,2
+Books,Telepathy,2
+Default,Is-a,12
+Login,DARK,6
+Internet,Default,75
+Blog,HTML,7
+Book,Video,4
+Video,Webcam,36
+benefit,Book,21
+Version,Mail,12
+Linux,Instant messaging,4
+Index,Voice,2
+Ubuntu,VirtualBox,20
+Linux,Version,27
+Linux,PHP,10
+Index,Evolution,24
+Blog,Forced,2
+benefit,Password,2
+Linux,Authentication,28
+Index,Mail,8
+Computer,Authentication,160
+Internet,Books,39
+Voice,Blog,4
+Computer,Instant messaging,24
+Book,net,4
+Internet,Libraries,40
+Computer,Version,186
+Internet,HTML,57
+Book,Login,6
+Computer,PHP,8
+WEB,PHP,6
+Index,Computer,24
+Information,The Current,10
+Libraries,HTTP,24
+Is-a,WWW,8
+Ubuntu,Make,20
+Email,WEB,56
+benefit,Books,65
+Blog,Napster,2
+HTML,HTTP,72
+WEB,Instant messaging,4
+Authentication,PHP,8
+Index,Linux,4
+Authentication,Instant messaging,40
+benefit,HTML,4
+benefit,Libraries,37
+Book,ORGANIZER,2
+Login,Thank You,6
+Version,Authentication,72
+Books,HTTP,12
+Login,File transfer,12
+Internet,Password,34
+Books,Hate,2
+Merge,Evolution,32
+HTML,Is-a,2
+Version,PHP,6
+Video,DARK,4
+Facial Recognition,Face,15
+Internet,Napster,7
+Email,Merge,160
+Book,WWW,40
+Password,Webmail,2
+benefit,Default,144
+Voice,interest,15
+Login,Facial Recognition,6
+Internet,Book,56
+Computer,Voice,16
+Index,Version,24
+notification,The Current,8
+Internet,HTTPS,16
+benefit,Forced,11
+Computer,Mail,8
+Blog,Password,2
+Information,Face,4
+interest,Forced,14
+notification,HTTPS,2
+Password,HTTP,36
+Books,net,2
+Internet,The Current,26
+Video,WEB,4
+The Current,Merge,4
+Information,Password,2
+Libraries,Login,18
+notification,Napster,2
+Information,Book,38
+Index,Internet,28
+Default,ORGANIZER,12
+Email,benefit,616
+Book,Barcode,4
+Book,Telepathy,2
+notification,Password,4
+Blog,The Current,4
+Computer,interest,48
+interest,HTML,7
+Index,Blog,2
+Linux,interest,4
+Information,While,2
+HTML,Video,4
+Libraries,Video,4
+Information,Forced,4
+File transfer,Napster,2
+Libraries,WWW,16
+benefit,Face,4
+notification,HTML,4
+HTML,WWW,148
+Index,Information,9
+Version,interest,12
+Email,File transfer,48
+notification,Books,2
+Email,Thank You,76
+Email,Webcam,48
+Password,Barcode,4
+Default,Login,18
+interest,Password,4
+Information,Default,42
+Books,WWW,8
+Mail,Instant messaging,8
+notification,Default,21
+Email,notification,128
+Book,HTTP,12
+Index,interest,11
+Libraries,ORGANIZER,2
+Book,Hate,4
+interest,Napster,2
+Voice,Authentication,12
+Information,HTML,16
+Information,Libraries,12
+Email,Gadu-Gadu,8
+notification,Forced,2
+Information,Books,23
+benefit,Gmail,2
+benefit,The Current,36
+Computer,Blog,22
+Books,ORGANIZER,2
+WEB,net,2
+Default,interest,75
+Email,Face,24
+WEB,Login,6
+Books,Blog,9
+benefit,Thank You,4
+Authentication,Login,306
+benefit,File transfer,4
+Index,Video,4
+Version,Login,18
+Information,Merge,8
+Information,Go!,2
+Libraries,Blog,7
+The Current,Password,2
+Computer,WWW,112
+benefit,notification,28
+Book,Voice,12
+Authentication,Video,44
+notification,Merge,4
+benefit,Facial Recognition,2
+benefit,Gadu-Gadu,2
+Authentication,Webmail,4
+Email,The Current,136
+Video,Password,4
+Email,Gmail,60
+Information,WEB,4
+Version,Video,12
+Book,Make:,2
+Computer,Webmail,4
+Version,WWW,24
+Index,ORGANIZER,2
+Linux,Video,4
+Book,Linux,4
+The Current,Forced,5
+Book,Computer,90
+Libraries,interest,12
+benefit,DARK,2
+Internet,notification,15
+Login,HTTPS,6
+Authentication,WWW,48
+Default,Blog,12
+Blog,File transfer,2
+Books,interest,33
+interest,Merge,20
+Computer,Video,40
+WEB,WWW,40
+Linux,Login,24
+Merge,Video,8
+Blog,Geek,2
+Voice,Hate,4
+Index,WWW,16
+Login,Password,138
+Book,Authentication,12
+Computer,Login,78
+The Current,HTML,2
+Book,PHP,2
+Book,Version,36
+Internet,Thank You,4
+Internet,Webcam,27
+Internet,File transfer,17
+interest,WEB,6
+Email,Books,172
+notification,File transfer,2
+benefit,WEB,6
+Merge,Is-a,4
+Linux,Make,2
+Email,HTML,60
+Email,Libraries,120
+Information,Gadu-Gadu,2
+Information,Facial Recognition,2
+Books,Mail,4
+Authentication,Barcode,12
+Default,Instant messaging,12
+Default,Version,243
+Authentication,Launchpad,8
+Books,Voice,8
+Voice,Video,4
+HTML,Mail,4
+Mail,Login,12
+Computer,Make,4
+Default,Authentication,36
+Mail,Webmail,4
+benefit,Merge,42
+Computer,HTTP,96
+Login,Gmail,6
+Default,Computer,120
+Default,Linux,27
+Index,Barcode,2
+Email,Default,444
+Computer,Hate,4
+Information,File transfer,2
+Information,Thank You,2
+Book,Blog,12
+Email,Forced,20
+Linux,HTTP,12
+Voice,Login,6
+Books,Authentication,8
+Version,HTTP,36
+Default,Voice,6
+PHP,HTTP,12
+Books,PHP,2
+Books,Version,36
+Email,HTTPS,36
+interest,Gadu-Gadu,2
+Barcode,Heron,2
+The Current,Gmail,2
+Internet,Merge,42
+Blog,WEB,9
+Authentication,HTTP,96
+Libraries,Authentication,12
+Email,Book,148
+HTML,PHP,16
+Merge,Barcode,4
+Libraries,Version,66
+WEB,HTTP,12
+HTML,Instant messaging,4
+Computer,Barcode,20
+Linux,VirtualBox,3
+WWW,HTTPS,16
+Book,interest,26
+Email,Password,144
+Index,HTTP,12
+Internet,WEB,47
+interest,File transfer,2
+interest,Thank You,2
+Instant messaging,Make,4
+Books,Linux,4
+The Current,Face,2
+WWW,Napster,8
+HTML,Tooltip,2
+Books,Computer,60
+Linux,Ubuntu,110
+Computer,VirtualBox,4
+Default,Book,18
+Book,The Current,22
+Books,Libraries,50
+Email,Mail,568
+benefit,Is-a,2
+Email,Evolution,192
+Computer,Merge,52
+interest,Video,4
+Email,Voice,40
+Facial Recognition,ORGANIZER,2
+benefit,Hate,2
+notification,WWW,8
+Libraries,HTML,4
+Internet,Launchpad,4
+Internet,Barcode,2
+Forced,Napster,2
+interest,Empathy,2
+Linux,WEB,4
+The Current,interest,19
+Information,WWW,72
+Default,Password,6
+Computer,WEB,12
+interest,Login,18
+Books,Forced,4
+Voice,DARK,2
+Email,Authentication,424
+HTML,Napster,2
+notification,Login,6
+interest,ORGANIZER,8
+Authentication,WEB,8
+Email,PHP,16
+Email,Version,396
+Email,Instant messaging,384
+Version,WEB,18
+Information,Video,12
+Default,Libraries,18
+Books,Napster,2
+Default,HTML,12
+benefit,Barcode,2
+Default,Pidgin,42
+benefit,COOL,4
+Internet,Make,2
+Default,Books,27
+Index,Merge,24
+Password,Gmail,2
+WWW,Instant messaging,32
+Internet,HTTP,210
+Default,Forced,24
+Thank You,ORGANIZER,2
+Evolution,Thank You,8
+Books,Password,4
+Email,Heron,8
+interest,WWW,8
+Version,Merge,84
+Email,Make:,8
+Email,Linux,48
+Information,Login,12
+Libraries,Password,2
+Email,Computer,728
+Voice,Webcam,6
+Internet,Is-a,2
+HTML,Password,2
+Index,WEB,2
+Computer,Facial Recognition,8
+Book,Forced,6
+Email,Blog,124
+Hate,Forced,2
+benefit,WWW,8
+Password,HTTPS,4
+Index,benefit,59
+Email,Internet,848
+Internet,Video,44
+Blog,Login,6
+Email,See,8
+Linux,File transfer,2
+interest,COOL,4
+interest,Barcode,4
+Information,HTTP,12
+Libraries,The Current,6
+Book,Books,525
+The Current,Authentication,4
+Information,Is-a,4
+Books,The Current,19
+Internet,Login,69
+Book,HTML,2
+Book,Libraries,41
+Blog,Video,12
+The Current,Version,24
+benefit,ORGANIZER,2
+Computer,Webcam,12
+Computer,File transfer,16
+The Current,Instant messaging,8
+Blog,WWW,32
+Authentication,File transfer,12
+benefit,Login,33
+Authentication,Webcam,30
+Login,Instant messaging,36
+Voice,Merge,8
+Instant messaging,File transfer,4
+Version,Thank You,6
+Default,Face,12
+Email,interest,340
+Index,notification,2
+Book,Password,2
+Version,File transfer,12
+interest,Hate,8
+Internet,WWW,508
+HTTP,HTTPS,48
+The Current,Evolution,16
+Book,Napster,2
+Default,The Current,24
+Version,Facial Recognition,6
+Information,Barcode,4
+Information,Ubuntu,20
+benefit,Video,28
+Blog,ORGANIZER,2
+Authentication,Facial Recognition,4
+Voice,WEB,4
+Index,Thank You,4
+Email,Information,216
+Computer,DARK,4
+notification,Version,12
+Index,The Current,4
+Voice,Forced,6
+Login,Barcode,6
+Email,Login,420
+Information,Linux,4
+Default,File transfer,6
+Libraries,DARK,2
+Mail,Forced,4
+Information,PHP,2
+notification,Computer,24
+Information,Instant messaging,4
+Information,Authentication,16
+Forced,File transfer,2
+Internet,Blog,53

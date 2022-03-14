@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<style>
+    table { width: 50% }
+tbody tr:hover.selected td,
+tbody tr:hover td {
+  background-color: rgb(41, 40, 39);
+  cursor: pointer;
+}
+tbody tr.selected td {
+  background-color: #ffd659;
+}
+
+p, h4{
+  margin:1%;
+}
+
+</style>
+<script>
+$("tbody").on("click", "tr", function(e) {     
+  $(this)
+     .toggleClass("selected")
+     .siblings(".selected")
+         .removeClass("selected");
+});
+
+</script>
+
+<body>
+
+<h4>Resultado das execuções do algoritmo de agrupamento</h4>
+<p>No grid abaixo estão o resultado de todas as execuções do algoritmo de agrupamento.
+  Mais informações sobre o algoritmo de agrupamento, estão no documento sobre o método.
+  As execuções que tiveram os melhores resultados, estão em destaque no grid. Sendo elas as execuções 17 e 18. 
+</p>
+<p>Para explorar os dados de cada execução, é necessário clicar na linha da grid.</p>
+
+<img src="images/1.png" alt="Primeiro passo">

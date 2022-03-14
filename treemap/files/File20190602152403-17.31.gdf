@@ -1,0 +1,1272 @@
+nodedef>name VARCHAR, width DOUBLE,height DOUBLE
+Google Chrome,0.9852851988,0.9852851988
+Love,9.22796307999,9.22796307999
+Bash,0.1121931,0.1121931
+Repository,25.80690638619,25.80690638619
+Brainstorm,0.155239821,0.155239821
+Code,3.50847280386,3.50847280386
+Keychain,0,0
+Technology,2.26514799,2.26514799
+Newbie,0.188846721,0.188846721
+Processing,0.03486784401,0.03486784401
+Wasting,0.21072969,0.21072969
+Default,29.45773562481,29.45773562481
+Firefox,1.79504847144,1.79504847144
+Google Translate,0.295944921,0.295944921
+Browsing,5.24186962965,5.24186962965
+Implementation,2.224401111,2.224401111
+See,0.45492071391,0.45492071391
+Source,0.30803075604,0.30803075604
+While,0.0531441,0.0531441
+Attempt,71.84129574744,71.84129574744
+Scalability,144.42341337108,144.42341337108
+Play,52.79796669897,52.79796669897
+Open-source software,56.9965044978,56.9965044978
+Multiverse,0.52523268291,0.52523268291
+Back,10.35074241819,10.35074241819
+MySQL,2.48211257562,2.48211257562
+Ecosystem,103.59138125655,103.59138125655
+Download,27.10275066693,27.10275066693
+HTML,6.3183918654,6.3183918654
+Thank You,3.36077213265,3.36077213265
+Index,61.9227496611,61.9227496611
+KeY,1.66990244283,1.66990244283
+Make,0.29912209902,0.29912209902
+Name,143.21072512881,143.21072512881
+GNU,3.73006141857,3.73006141857
+Mail,8.40404487924,8.40404487924
+SELinux,0.086093442,0.086093442
+scripts,0.059049,0.059049
+Version,26.87555303811,26.87555303811
+Ubuntu,1.09392316992,1.09392316992
+Map,91.55186443665,91.55186443665
+Encryption,58.37955630651,58.37955630651
+skill,0.314890821,0.314890821
+Program,0.04782969,0.04782969
+format,13.5223271253,13.5223271253
+DEAL,0.0531441,0.0531441
+Anaconda,0.1341441,0.1341441
+WWW,2.2910645394,2.2910645394
+Data center,29.78827716168,29.78827716168
+Make:,0.1627887699,0.1627887699
+rsync,0.03486784401,0.03486784401
+Beer,2.38166643672,2.38166643672
+CLIPS,0.1253137878,0.1253137878
+Reason,0.081,0.081
+Decision,192.04179702732,192.04179702732
+Universe,0.13584163401,0.13584163401
+Management system,28.34170235694,28.34170235694
+Rest,10.35874019781,10.35874019781
+HTTPS,1.7317911699,1.7317911699
+Live CD,0.21365889291,0.21365889291
+Is-a,1.03396717161,1.03396717161
+Sudoku,0.66685997601,0.66685997601
+Text,0.04782969,0.04782969
+Money,39.33246268548,39.33246268548
+Box,8.95423821111,8.95423821111
+Heron,0.61511574393,0.61511574393
+Pidgin,0.221049,0.221049
+TrueCrypt,0.1121931,0.1121931
+Numerous,2.24073609435,2.24073609435
+Archive,41.66104813245,41.66104813245
+Google Search,1.75966577361,1.75966577361
+Nautilus,0.57860782002,0.57860782002
+Performance,99.33416031384,99.33416031384
+machine,5.32046637837,5.32046637837
+Superuser,9.33531841764,9.33531841764
+Iso,0.115946721,0.115946721
+Linux,17.55903203523,17.55903203523
+MPEG-2,0.54551775672,0.54551775672
+Awesome,0.41086425501,0.41086425501
+One,0,0
+Wiki,6.20544249405,6.20544249405
+Most,0,0
+Report,1.45468520784,1.45468520784
+MP3,6.06531611718,6.06531611718
+Live USB,0.04782969,0.04782969
+Booting,3.09885962544,3.09885962544
+Gain,53.10079478001,53.10079478001
+Kernel,17.05084352253,17.05084352253
+Catch-all,0.139237542,0.139237542
+HTTP,1.86186897684,1.86186897684
+Video,6.40255721643,6.40255721643
+MASON,2.64829616964,2.64829616964
+Software ecosystem,0.8059076289,0.8059076289
+Base,62.64418799664,62.64418799664
+Database,113.37347565072,113.37347565072
+Timeline,2.87146180089,2.87146180089
+BETA,0.108656721,0.108656721
+USB,4.42107219195,4.42107219195
+ROOT,0.241990821,0.241990821
+FINE,0,0
+PHP,3.22895679714,3.22895679714
+Client-side,4.61518103241,4.61518103241
+Schedule,4.77665225559,4.77665225559
+Music,1.70677596501,1.70677596501
+Java,27.28918380753,27.28918380753
+Internet,93.99575088495,93.99575088495
+Computer,45.69183571122,45.69183571122
+Source Code,9.85935495762,9.85935495762
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Money,Java,8
+Box,Sudoku,2
+Encryption,HTTP,32
+Name,Back,10
+Repository,Browsing,16
+Download,Timeline,2
+Name,PHP,6
+Open-source software,Schedule,2
+Database,Google Search,12
+Name,machine,4
+Index,Box,2
+Open-source software,CLIPS,2
+Decision,Client-side,4
+Name,skill,2
+Java,MP3,8
+Repository,WWW,8
+Internet,Google Search,12
+Internet,Money,111
+Data center,MySQL,6
+Name,Booting,4
+Open-source software,Version,42
+Map,HTTPS,2
+Source Code,PHP,12
+Decision,Beer,2
+Scalability,Performance,28
+Money,MP3,2
+Archive,Wiki,6
+Kernel,GNU,18
+Source Code,machine,4
+Attempt,GNU,2
+Version,Code,24
+Download,Wiki,2
+Name,Map,77
+Decision,Archive,32
+Gain,MPEG-2,2
+Computer,Management system,32
+Scalability,Bash,2
+Archive,Timeline,4
+Money,Mail,4
+Video,WWW,4
+Love,Download,2
+Scalability,Management system,52
+HTTP,Firefox,40
+Index,Default,51
+Browsing,HTTP,8
+Name,Nautilus,2
+Archive,Linux,8
+Play,Download,10
+Linux,HTTPS,4
+Name,Open-source software,16
+format,Video,10
+Ecosystem,Money,18
+Default,Report,24
+Wiki,Google Search,2
+Video,Browsing,2
+Decision,Attempt,83
+Attempt,HTML,2
+Database,Version,96
+Base,format,6
+Map,Box,11
+Computer,Performance,25
+Internet,Schedule,6
+Name,Database,82
+Scalability,Code,36
+Open-source software,Google Search,4
+Database,Schedule,4
+format,MySQL,2
+Money,Computer,23
+Open-source software,Money,4
+GNU,Software ecosystem,2
+WWW,HTTP,24
+Archive,Rest,8
+Internet,Version,297
+Linux,Schedule,2
+Download,HTML,16
+Decision,HTTP,24
+Scalability,Java,276
+Name,USB,2
+Internet,Default,225
+Computer,Schedule,4
+Scalability,Money,10
+USB,Numerous,2
+Version,Mail,6
+Kernel,Rest,6
+Money,Default,90
+Linux,Version,27
+Scalability,MP3,12
+Play,Newbie,2
+Repository,Kernel,36
+Money,Performance,4
+Database,Performance,31
+Ecosystem,Management system,13
+Encryption,Client-side,18
+Index,Mail,4
+Index,Scalability,7
+Name,Data center,4
+Box,Source Code,2
+Management system,Superuser,2
+Version,Music,6
+Decision,MASON,14
+Computer,Version,93
+Decision,ROOT,2
+Attempt,Linux,2
+Index,Computer,12
+Base,Timeline,2
+Map,MP3,4
+Management system,Source Code,2
+Is-a,WWW,4
+Name,format,11
+Gain,Encryption,5
+Index,Schedule,2
+Attempt,Catch-all,2
+format,Thank You,2
+Base,Database,119
+Code,DEAL,4
+Internet,Technology,6
+Attempt,Rest,12
+Open-source software,Box,4
+USB,Live CD,2
+Open-source software,Management system,39
+Archive,HTML,9
+format,Source Code,6
+Map,Google Search,4
+Attempt,Map,11
+Index,Version,24
+Play,WWW,2
+Client-side,GNU,2
+Map,Java,120
+Internet,HTTPS,48
+Computer,Mail,2
+Back,Schedule,2
+Kernel,machine,12
+Source Code,GNU,14
+Download,GNU,2
+Open-source software,TrueCrypt,2
+Archive,Data center,2
+Index,MP3,2
+Decision,WWW,6
+Repository,Client-side,8
+Name,KeY,2
+Base,machine,9
+Map,CLIPS,2
+Attempt,Ecosystem,8
+Database,Management system,121
+Ecosystem,Performance,8
+Open-source software,Bash,2
+Base,Back,2
+Base,PHP,6
+Internet,Box,48
+Money,Management system,8
+Ecosystem,Default,21
+Attempt,Wiki,5
+Map,Schedule,10
+Version,MP3,6
+Base,skill,2
+Index,Google Search,2
+MP3,Code,4
+Database,Box,6
+Internet,Management system,177
+Money,Box,4
+Base,Linux,6
+Index,Java,8
+Performance,MySQL,2
+Attempt,Open-source software,10
+Open-source software,HTTPS,3
+Map,Version,51
+Data center,Source Code,2
+HTML,Video,2
+Browsing,Client-side,2
+Decision,Browsing,6
+Index,Money,8
+Video,MPEG-2,4
+Download,USB,2
+Play,MASON,4
+Computer,MP3,13
+Box,Numerous,2
+Rest,Schedule,2
+Attempt,Database,31
+Database,Code,4
+Base,Rest,6
+Name,HTML,11
+WWW,Client-side,6
+Booting,Java,48
+Scalability,Version,90
+Open-source software,Default,27
+Attempt,Internet,54
+GNU,Live CD,2
+Management system,Report,4
+Firefox,GNU,10
+Attempt,Timeline,2
+Repository,Firefox,40
+Open-source software,Performance,15
+Linux,MP3,2
+Scalability,Computer,119
+Base,Map,38
+Linux,Java,128
+Archive,format,11
+Love,MASON,2
+HTML,MySQL,6
+Archive,GNU,4
+Encryption,Universe,2
+Computer,Google Search,3
+Performance,Video,3
+Browsing,Firefox,20
+Play,HTTP,16
+Internet,Code,12
+Scalability,Schedule,6
+Decision,Encryption,8
+Repository,Download,20
+Source Code,HTML,3
+Map,Mail,4
+Scalability,CLIPS,2
+Computer,Java,184
+Ecosystem,HTTPS,2
+Name,Kernel,48
+Encryption,KeY,3
+Computer,MySQL,4
+Decision,Ecosystem,59
+Database,Superuser,4
+Linux,Software ecosystem,2
+Decision,Wiki,10
+Scalability,Ubuntu,70
+Map,Gain,4
+HTML,Google Search,2
+Computer,Software ecosystem,2
+Index,Video,2
+Archive,Client-side,6
+Base,Is-a,4
+Ecosystem,Base,20
+Kernel,Encryption,12
+Linux,MySQL,10
+Play,Map,10
+Attempt,WWW,2
+Decision,Open-source software,30
+Download,Firefox,10
+Attempt,Browsing,2
+Bash,CLIPS,2
+Play,Rest,4
+Gain,Back,4
+Gain,PHP,6
+Open-source software,Live CD,2
+Internet,Superuser,6
+Love,Map,7
+Base,MASON,6
+Base,ROOT,2
+Version,Video,6
+Decision,Timeline,8
+Index,Repository,22
+Database,Thank You,2
+Linux,Video,2
+Decision,Internet,237
+Scalability,Play,19
+Performance,Java,68
+Index,MySQL,2
+Name,MPEG-2,2
+Internet,Source Code,57
+Play,Linux,4
+Kernel,Browsing,12
+Open-source software,Base,9
+Default,Java,156
+Attempt,Iso,2
+Decision,Database,88
+Internet,Name,201
+Computer,Video,10
+Encryption,HTML,6
+Attempt,Encryption,2
+Kernel,WWW,6
+Scalability,Gain,11
+Java,Source Code,128
+Decision,Google Translate,2
+Gain,Rest,4
+Archive,Download,15
+Play,Back,17
+Default,MP3,6
+Database,Source Code,15
+Download,Client-side,8
+Version,Software ecosystem,6
+Booting,Video,4
+Performance,MP3,4
+Internet,Thank You,12
+Open-source software,Anaconda,2
+Repository,format,42
+Repository,GNU,4
+Love,Database,2
+Money,Numerous,4
+Open-source software,Source Code,45
+Linux,Make,12
+Box,Code,4
+Computer,Gain,8
+Base,WWW,2
+Performance,Version,27
+Source Code,Client-side,4
+Decision,machine,14
+Firefox,Google Chrome,45
+Default,Version,243
+Decision,PHP,12
+Map,Software ecosystem,2
+Decision,Back,8
+Internet,Base,72
+HTML,Mail,2
+Encryption,USB,8
+Computer,Make,12
+Play,Database,12
+Money,Base,15
+Default,Computer,60
+Name,Client-side,2
+Attempt,MASON,6
+Decision,Linux,17
+Open-source software,Thank You,2
+Scalability,Video,15
+Default,Schedule,6
+Ecosystem,Superuser,8
+Report,ROOT,4
+Base,Browsing,6
+Internet,Numerous,12
+Index,Gain,12
+Decision,Rest,33
+Ecosystem,Source Code,2
+Client-side,Firefox,20
+Play,Open-source software,17
+Encryption,GNU,2
+Map,Video,4
+Ecosystem,Name,36
+Internet,Report,54
+Box,Management system,2
+Source Code,Firefox,10
+Name,Download,17
+Scalability,Repository,46
+Decision,Map,50
+Database,Report,14
+Index,Play,11
+Name,Archive,35
+Scalability,MySQL,5
+Play,Wiki,2
+Name,Firefox,10
+Base,Encryption,4
+Index,Love,2
+Repository,HTML,26
+Linux,Ubuntu,154
+Open-source software,Superuser,4
+HTML,Schedule,4
+Scalability,Software ecosystem,7
+Linux,SELinux,2
+Wiki,Video,2
+Linux,Report,4
+Encryption,Wiki,2
+Open-source software,Repository,84
+Repository,Linux,16
+Archive,MASON,5
+Data center,Version,6
+Decision,KeY,2
+Open-source software,MySQL,12
+Map,Source Code,12
+Name,WWW,2
+Attempt,Kernel,24
+format,Java,28
+Source Code,Browsing,2
+Booting,Live CD,4
+Index,Base,19
+Map,Brainstorm,4
+Scalability,Superuser,2
+Computer,Report,12
+Open-source software,Software ecosystem,2
+Gain,Data center,4
+Ecosystem,Video,6
+MySQL,PHP,84
+Linux,Live CD,4
+Management system,Google Search,6
+format,MP3,6
+Timeline,Ubuntu,28
+Play,format,4
+Performance,Bash,2
+Management system,Java,48
+Name,Browsing,2
+Repository,PHP,12
+Computer,Live CD,2
+Download,Is-a,4
+Play,Data center,2
+Internet,Gain,54
+Repository,Map,28
+Encryption,Timeline,2
+Money,Sudoku,2
+Box,Java,12
+Ecosystem,Repository,24
+Ecosystem,Software ecosystem,16
+Decision,HTML,4
+Index,Report,8
+Open-source software,Video,8
+Base,Download,12
+Download,HTTP,24
+Source Code,Encryption,6
+Internet,Make,36
+Scalability,Source Code,26
+Superuser,MASON,2
+Money,Make,12
+Superuser,ROOT,2
+Internet,Play,93
+Linux,Anaconda,2
+Download,MASON,2
+Name,Encryption,32
+Map,Superuser,2
+Scalability,Name,40
+Money,Gain,6
+Internet,Love,9
+machine,Report,4
+Database,Gain,8
+Version,Report,12
+Default,Performance,21
+Computer,Numerous,4
+Attempt,Multiverse,2
+Performance,Code,8
+Open-source software,Gain,6
+Base,Kernel,36
+Archive,Browsing,18
+Box,Version,18
+Name,HTTP,16
+Computer,Source Code,19
+Name,Is-a,8
+Decision,USB,2
+Linux,Source Code,24
+Open-source software,Make,12
+Default,Code,12
+Internet,Video,66
+Scalability,Anaconda,2
+Encryption,PHP,6
+Map,Report,4
+Kernel,Firefox,30
+Booting,Source Code,4
+Database,Video,15
+Ecosystem,Ubuntu,28
+Download,Encryption,37
+Repository,Wiki,10
+Play,HTML,2
+Scalability,Base,22
+Name,MASON,5
+Decision,Data center,7
+Java,Video,16
+Archive,WWW,8
+Internet,MySQL,15
+Archive,Encryption,7
+Index,Source Code,2
+Default,Management system,12
+Encryption,Rest,2
+Ecosystem,Gain,18
+Rest,Report,4
+Internet,Repository,216
+Attempt,Download,4
+format,Version,39
+Decision,format,26
+Internet,Software ecosystem,6
+Decision,GNU,2
+Index,Name,34
+Management system,Schedule,2
+Version,Thank You,6
+Booting,Superuser,8
+Download,WWW,10
+Performance,Management system,4
+Browsing,Timeline,2
+Data center,Google Search,2
+Java,MySQL,32
+Ecosystem,Play,8
+Performance,Box,8
+Open-source software,Ubuntu,224
+Version,Source Code,54
+Repository,Timeline,8
+Linux,Superuser,6
+Download,Browsing,6
+Management system,Version,27
+Java,Software ecosystem,8
+Repository,Database,114
+Scalability,Report,4
+Ecosystem,Love,2
+Ecosystem,Sudoku,2
+Computer,Superuser,8
+Index,Thank You,4
+format,Schedule,2
+Mail,Report,4
+Map,Numerous,2
+Attempt,Archive,15
+Database,MySQL,29
+Default,Box,6
+Repository,MySQL,4
+Play,Base,17
+Java,Timeline,16
+Open-source software,Linux,89
+Attempt,Code,8
+Money,Database,26
+Ecosystem,Map,44
+Linux,Data center,17
+Decision,Thank You,8
+Open-source software,Booting,4
+Scalability,HTML,17
+Name,Version,147
+Booting,USB,8
+Download,Google Search,2
+Encryption,Sudoku,2
+Video,Sudoku,2
+Data center,WWW,2
+Computer,Data center,28
+Database,Timeline,5
+Map,Source,4
+PHP,GNU,6
+Box,MASON,2
+Name,Computer,49
+Data center,Browsing,2
+Default,Client-side,6
+Decision,Source Code,18
+Ecosystem,Rest,2
+Linux,USB,2
+Google Search,Timeline,4
+Internet,Timeline,18
+Love,Base,12
+MASON,Report,8
+Play,Numerous,2
+Decision,Name,73
+Internet,Database,465
+Open-source software,PHP,24
+Index,format,20
+Name,Heron,2
+Database,Google Translate,4
+Booting,Data center,8
+Wiki,Rest,2
+Encryption,Make,24
+HTML,Firefox,20
+Computer,USB,8
+Download,MP3,6
+Performance,Download,6
+Ecosystem,Linux,6
+Java,Wiki,8
+Encryption,Ubuntu,28
+Open-source software,Map,38
+Internet,Open-source software,168
+Play,Report,12
+Scalability,KeY,2
+format,HTTP,16
+Name,Mail,8
+Attempt,Management system,7
+Booting,GNU,4
+Archive,MP3,6
+Open-source software,rsync,2
+Default,Download,6
+Repository,Video,4
+Database,Wiki,6
+Decision,Superuser,2
+Money,Wiki,4
+HTTPS,Google Chrome,2
+Linux,GNU,32
+Internet,Wiki,60
+Archive,Java,80
+Linux,format,12
+Data center,Encryption,16
+Attempt,Box,11
+Love,Report,8
+HTML,Client-side,16
+Internet,Ecosystem,87
+Archive,Money,16
+Open-source software,Rest,2
+Name,Music,2
+Computer,GNU,7
+Computer,format,24
+Map,HTML,21
+Ecosystem,machine,2
+MP3,Timeline,2
+Base,Performance,15
+Gain,Source Code,2
+Default,Kernel,36
+Java,Rest,8
+Internet,Map,165
+Management system,Encryption,11
+Archive,Computer,31
+Map,Data center,10
+Scalability,format,10
+Data center,HTTP,8
+Scalability,GNU,2
+Money,Rest,2
+Base,Code,4
+Database,Rest,4
+Version,HTML,18
+Performance,Kernel,36
+Encryption,MySQL,2
+Video,MySQL,2
+Computer,KeY,2
+Archive,Version,66
+Internet,Rest,18
+Open-source software,Wiki,7
+Database,Map,119
+Decision,Report,20
+format,Encryption,4
+Video,Software ecosystem,2
+Money,Map,16
+Ecosystem,Database,24
+Index,HTML,8
+Wiki,Timeline,2
+Internet,Linux,123
+Database,Back,2
+Database,PHP,27
+Base,Management system,16
+Download,Version,45
+Database,machine,8
+Ecosystem,Open-source software,27
+Love,Thank You,7
+format,WWW,4
+Name,Java,68
+Scalability,USB,4
+Performance,MPEG-2,2
+Decision,Numerous,2
+Management system,Browsing,4
+Internet,Booting,12
+Java,PHP,144
+Name,Money,26
+Java,Back,8
+Play,Source Code,2
+Download,Schedule,2
+Open-source software,Timeline,4
+Archive,Mail,4
+Database,Booting,12
+Repository,Ubuntu,56
+Linux,HTML,9
+Attempt,Default,39
+Money,Booting,4
+Name,MP3,4
+Attempt,Performance,22
+Play,Thank You,2
+Box,Encryption,7
+Management system,WWW,2
+Superuser,Schedule,2
+Decision,Base,61
+Scalability,Data center,92
+Open-source software,Database,65
+format,Browsing,6
+Encryption,Video,11
+Base,Box,10
+Map,GNU,4
+Money,Linux,4
+Database,Linux,22
+Internet,PHP,108
+Computer,HTML,15
+Map,format,10
+Database,HTML,52
+Computer,Linux,50
+Scalability,Internet,555
+Index,Map,29
+Attempt,Version,33
+Back,Rest,4
+Money,HTML,4
+Computer,Make:,12
+Version,Rest,24
+Scalability,Timeline,6
+Default,HTTP,48
+Play,Video,2
+Decision,Play,39
+Open-source software,Live USB,2
+Firefox,HTTPS,10
+Default,Is-a,24
+Booting,machine,4
+Computer,Booting,20
+Scalability,Database,193
+Open-source software,Data center,19
+Name,Code,12
+format,Download,4
+Java,HTML,144
+Decision,Love,34
+Decision,Sudoku,2
+Decision,Gain,20
+Wiki,GNU,2
+Attempt,Schedule,2
+Map,Wiki,4
+Linux,Back,2
+Performance,MASON,5
+Linux,PHP,30
+Attempt,Heron,4
+Index,Rest,6
+Booting,Linux,32
+Attempt,Computer,17
+Open-source software,USB,2
+Ecosystem,format,2
+Computer,machine,14
+Rest,Timeline,2
+Management system,Download,8
+Default,MASON,18
+Internet,HTML,171
+Computer,Back,2
+Computer,PHP,12
+Scalability,Ecosystem,32
+Attempt,Mail,8
+Java,KeY,28
+Ubuntu,Make,168
+Download,HTTPS,4
+Name,Management system,12
+HTML,HTTP,48
+Archive,Default,18
+Box,Download,4
+Decision,Ubuntu,28
+Archive,Performance,13
+Index,Linux,4
+Scalability,Wiki,7
+Computer,Map,53
+Ecosystem,Data center,10
+Gain,Video,2
+Encryption,Superuser,4
+Base,Java,32
+Version,machine,6
+HTML,Is-a,4
+Version,PHP,18
+Version,Back,12
+Play,Repository,14
+Repository,Base,32
+Database,KeY,5
+Internet,KeY,6
+Booting,Map,4
+Computer,Rest,4
+format,Client-side,4
+Scalability,Open-source software,91
+Base,MP3,4
+Map,Timeline,6
+Open-source software,format,24
+Open-source software,GNU,31
+Index,machine,2
+Kernel,Version,135
+Name,Box,25
+Linux,Rest,2
+Ecosystem,USB,2
+Kernel,MP3,6
+Database,format,33
+Map,Linux,8
+Encryption,DEAL,2
+Money,format,4
+Database,GNU,13
+Repository,Source Code,34
+format,MPEG-2,4
+Performance,WWW,2
+Base,Version,57
+Open-source software,Source,4
+Java,GNU,12
+Scalability,Map,64
+Index,Internet,84
+Computer,Wiki,9
+Wiki,HTML,4
+Decision,Repository,58
+Base,Computer,35
+Decision,MySQL,2
+Open-source software,KeY,2
+Base,Schedule,2
+Base,Heron,2
+Internet,GNU,33
+Decision,Software ecosystem,2
+Internet,format,84
+Map,PHP,6
+Index,Database,55
+Ecosystem,HTML,4
+Data center,Client-side,4
+Default,Browsing,6
+Base,CLIPS,2
+Database,USB,2
+Attempt,Java,8
+format,Kernel,6
+Data center,Download,13
+Schedule,Timeline,14
+Index,Open-source software,10
+HTML,WWW,37
+Booting,Timeline,4
+Archive,Box,2
+Download,Code,4
+Attempt,Money,21
+Scalability,PHP,18
+Scalability,Back,2
+Scalability,machine,9
+Attempt,Google Search,2
+Internet,Data center,102
+Base,Mail,2
+Play,Gain,6
+Encryption,Numerous,2
+Java,USB,8
+Index,Ecosystem,13
+Ecosystem,KeY,2
+Map,Rest,6
+Management system,Kernel,6
+Play,Love,14
+Database,Data center,26
+Money,Data center,7
+Performance,Encryption,7
+Scalability,Linux,62
+HTML,Browsing,8
+Linux,Timeline,2
+Scalability,Booting,22
+Open-source software,HTML,13
+Archive,Management system,13
+Default,Encryption,27
+Java,Data center,8
+Name,Default,87
+Decision,Video,6
+Attempt,MP3,4
+Name,Performance,48
+Love,Gain,2
+Internet,USB,6
+Internet,Archive,165
+Data center,USB,2
+Play,Music,2
+Money,Download,13
+Database,Download,50
+Love,Mail,4
+Linux,Browsing,2
+Download,Superuser,3
+Archive,Source Code,2
+Index,Encryption,2
+Gain,Schedule,2
+Live USB,USB,2
+format,HTML,20
+Java,Download,112
+Map,MASON,6
+Computer,Browsing,7
+Kernel,Video,6
+Internet,Firefox,90
+Encryption,HTTPS,6
+Base,Sudoku,2
+Computer,WWW,14
+Base,Gain,4
+Open-source software,Kernel,36
+Archive,Thank You,4
+Map,HTTP,8
+Play,Mail,2
+Encryption,TrueCrypt,4
+Internet,Download,264
+Attempt,Repository,30
+Name,Report,4
+Gain,Version,9
+Map,Is-a,4
+Back,Encryption,2
+Version,Encryption,45
+Decision,Google Search,6
+Download,Thank You,4
+Version,WWW,6
+Linux,Encryption,12
+HTTP,Schedule,8
+Love,Reason,2
+Box,HTML,2
+Internet,Client-side,90
+Scalability,HTTP,16
+Love,Version,18
+Name,Numerous,2
+Repository,Box,4
+Decision,Java,68
+Decision,Money,112
+Default,Database,60
+Index,Browsing,6
+Computer,Encryption,45
+Play,Computer,36
+Love,Schedule,2
+Java,Client-side,32
+Repository,Management system,36
+Management system,KeY,4
+Play,Version,30
+Decision,MP3,10
+Index,WWW,4
+Database,Client-side,22
+Version,Browsing,12
+Name,Base,60
+Download,Source Code,16
+Scalability,MASON,2
+Ecosystem,Google Chrome,2
+Open-source software,Client-side,10
+Love,Money,13
+Ecosystem,Archive,14
+Archive,Report,8
+MySQL,Bash,2
+Performance,machine,8
+Attempt,Love,4
+Browsing,HTTPS,2
+Linux,ROOT,4
+Decision,Reason,2
+Map,Browsing,16
+Encryption,Code,20
+Default,machine,12
+Video,Code,4
+Index,Decision,31
+Name,Thank You,8
+Decision,Version,72
+Play,MP3,6
+Computer,MASON,6
+Attempt,Play,23
+Ecosystem,Firefox,10
+Database,MPEG-2,2
+Name,Source Code,21
+Computer,HTTP,32
+Play,Money,16
+Internet,MPEG-2,12
+Map,WWW,13
+Decision,Computer,66
+MySQL,HTTPS,2
+Kernel,Ubuntu,84
+Default,Linux,27
+Base,MySQL,2
+Play,Java,24
+Ecosystem,Download,12
+Decision,Schedule,14
+Scalability,Encryption,69
+Decision,Heron,2
+Management system,GNU,2
+Management system,format,10
+Attempt,Gain,19
+Base,Software ecosystem,2
+Linux,HTTP,8
+Performance,skill,2
+Version,HTTP,24
+Database,Google Chrome,2
+Archive,Base,18
+PHP,HTTP,24
+Open-source software,Archive,30
+Default,Rest,12
+Box,format,2
+Java,Kernel,96
+Scalability,WWW,14
+Decision,Scalability,43
+Database,Kernel,51
+Open-source software,Firefox,35
+Repository,Performance,8
+Money,Kernel,6
+Performance,Rest,2
+GNU,USB,2
+Wiki,Client-side,2
+Decision,Mail,20
+Map,Encryption,36
+HTML,PHP,48
+Name,Superuser,2
+Management system,Data center,11
+Repository,Default,36
+Default,Map,54
+WWW,HTTPS,4
+Internet,Kernel,72
+Index,HTTP,8
+Decision,Music,2
+Version,MASON,6
+Gain,Java,16
+MP3,MPEG-2,11
+Scalability,Browsing,10
+machine,MASON,2
+Open-source software,Download,25
+format,Data center,4
+Booting,Kernel,12
+MP3,MASON,2
+format,Timeline,2
+Play,Box,4
+Repository,Computer,24
+Map,Client-side,12
+Superuser,Ubuntu,28
+Decision,HTTPS,4
+Source Code,Software ecosystem,2
+Ecosystem,Encryption,14
+Open-source software,Browsing,8
+Scalability,Download,26
+Repository,Heron,4
+Name,Repository,68
+Base,Source Code,4
+Attempt,Report,12
+Management system,Timeline,2
+Open-source software,WWW,4
+Archive,Love,2
+Scalability,Archive,40
+Name,MySQL,4
+Computer,Kernel,48
+Decision,Technology,4
+Linux,Kernel,210
+Repository,Version,90
+Java,HTTP,96
+Sudoku,Code,4
+Database,Is-a,18
+Encryption,Google Search,2
+Firefox,Ubuntu,140
+format,Wiki,2
+Performance,HTML,3
+Internet,MASON,24
+Open-source software,Encryption,18
+Default,HTML,12
+Ecosystem,Browsing,10
+Default,Pidgin,6
+Gain,Box,2
+Base,Superuser,2
+Database,HTTP,8
+Index,Attempt,17
+Map,Firefox,10
+Money,HTTP,8
+Box,Timeline,2
+Java,Is-a,16
+Gain,Management system,2
+Ecosystem,WWW,2
+Index,Kernel,18
+Internet,HTTP,420
+Computer,MPEG-2,2
+Scalability,Client-side,19
+Encryption,MP3,2
+Attempt,Base,46
+Database,MASON,6
+Money,MASON,6
+Management system,Wiki,3
+Decision,Default,123
+Name,Video,4
+Map,Download,30
+Repository,Mail,4
+Archive,Ubuntu,28
+Internet,Is-a,12
+Wiki,WWW,2
+Decision,Performance,32
+Play,Performance,17
+Attempt,Thank You,8
+Play,Default,21
+format,Rest,3
+Name,Play,41
+Computer,Client-side,6
+Performance,USB,5
+Scalability,MPEG-2,8
+Index,Archive,19
+Archive,Repository,198
+Computer,Beer,2
+Linux,Client-side,5
+Data center,Wiki,2
+Name,Love,13
+Source Code,Make,12
+Internet,Encryption,273
+Open-source software,MASON,2
+HTML,GNU,2
+Money,Encryption,8
+Database,Encryption,49
+Download,Video,8
+Attempt,Name,44
+Name,Gain,22
+Linux,Multiverse,2
+Love,Performance,2
+Open-source software,HTTP,8
+Management system,Rest,2
+Map,Kernel,51
+Love,Default,6
+Base,Report,10
+Kernel,Superuser,6
+Map,Google Chrome,2
+Internet,Newbie,6
+Video,Schedule,2
+Index,Download,6
+Java,Encryption,72
+Default,Data center,12
+Firefox,Software ecosystem,10
+Decision,Management system,27
+Scalability,Kernel,90
+Repository,MP3,4
+Archive,Video,2
+Linux,Firefox,30
+Java,WWW,64
+Attempt,Superuser,2
+Performance,format,9
+Kernel,Source Code,39
+Scalability,Google Chrome,2
+Default,format,36
+format,PHP,6
+Base,Numerous,2
+Internet,Browsing,84
+Ecosystem,MASON,4
+Encryption,Mail,6
+Gain,Performance,29
+Database,WWW,32
+Mail,Implementation,2
+Booting,Download,8
+Internet,WWW,381
+HTTP,HTTPS,32
+Ecosystem,HTTP,16
+Source Code,Ubuntu,28
+Map,MPEG-2,2
+Database,Browsing,37
+Linux,Download,19
+Download,Software ecosystem,2
+Version,Client-side,6
+Money,Browsing,2
+Play,HTTPS,2
+PHP,Client-side,6
+Computer,Download,33
+Browsing,MP3,2
+Management system,PHP,6
+Java,Browsing,24
+Repository,Java,32
+Decision,Box,6
+Scalability,Attempt,7
+Ecosystem,Is-a,4
+Database,Java,260
+Attempt,USB,2
+Open-source software,Computer,31
+Internet,MP3,39
+format,Ubuntu,28
+Default,Thank You,6
+Browsing,WWW,2
+Video,Is-a,4
+Default,Source Code,27
+Index,Management system,8
+Linux,Code,4
+Name,Linux,13
+Scalability,Default,36
+Database,MP3,11
+Internet,Java,828
+Performance,Source Code,4
+Attempt,format,4
+Performance,Superuser,2
+Name,Rest,20
+Ecosystem,Computer,9
+Map,Performance,31
+Scalability,HTTPS,6
+Base,HTML,6
+Computer,Box,10
+Archive,Google Translate,2
+Ecosystem,Heron,2
+Decision,Download,13
+Repository,Encryption,8
+Archive,Database,76
+Linux,Management system,6
+Kernel,USB,6
+Encryption,WWW,4
+Archive,Booting,4
+Decision,Kernel,6
+Thank You,Timeline,2
+Ecosystem,MP3,4
+Name,Wiki,4
+Management system,Video,2
+Play,Archive,6
+Archive,skill,2
+Linux,TrueCrypt,4
+Decision,Implementation,2
+Index,Performance,27
+Wiki,MP3,2
+Archive,Back,2
+Repository,HTTP,32
+Source Code,Wiki,2
+Scalability,Box,6
+Internet,Mail,18
+Ecosystem,Java,36
+Computer,HTTPS,2
+Money,Version,18
+Play,Beer,2
+Name,Timeline,2
+Linux,Performance,6
+Internet,Computer,453
+Open-source software,MP3,6
+Management system,MySQL,4
+Archive,Map,41
+Index,Technology,2
+Default,Numerous,6
+Java,Version,168
+Love,Beer,2
+Money,Schedule,8
+Map,Management system,19
+Source Code,Timeline,2
+Default,Base,54
+Database,Computer,109
+Open-source software,Java,284
+Booting,Performance,20
+PHP,Bash,6
+Attempt,Back,8
+Attempt,PHP,12
+Scalability,Google Search,8
+Attempt,machine,8
+Base,Wiki,6
+Browsing,Google Chrome,2
+Box,Thank You,2
+Play,Encryption,4
+Archive,Source,4
+Internet,Performance,51
+Rest,MP3,2

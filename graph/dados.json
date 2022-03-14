@@ -1,0 +1,6219 @@
+{
+    "nodes": [
+        {
+            "id": "Palliative care service",
+            "group": 1
+        },
+        {
+            "id": "Plants",
+            "group": 1
+        },
+        {
+            "id": "Malignant Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Experiment",
+            "group": 1
+        },
+        {
+            "id": "Plain x-ray",
+            "group": 1
+        },
+        {
+            "id": "Impaired glucose tolerance",
+            "group": 1
+        },
+        {
+            "id": "Alleles",
+            "group": 1
+        },
+        {
+            "id": "Autophagy",
+            "group": 1
+        },
+        {
+            "id": "Infarction",
+            "group": 1
+        },
+        {
+            "id": "Gradient",
+            "group": 1
+        },
+        {
+            "id": "Fever",
+            "group": 1
+        },
+        {
+            "id": "Sepsis",
+            "group": 1
+        },
+        {
+            "id": "Coronary artery",
+            "group": 1
+        },
+        {
+            "id": "Ligands",
+            "group": 1
+        },
+        {
+            "id": "Biologic Preservation",
+            "group": 1
+        },
+        {
+            "id": "Survivors",
+            "group": 1
+        },
+        {
+            "id": "Blood Cells",
+            "group": 1
+        },
+        {
+            "id": "Sleep Apnea Syndromes",
+            "group": 1
+        },
+        {
+            "id": "Tumor Suppressor Genes",
+            "group": 1
+        },
+        {
+            "id": "Blood Vessel Tissue",
+            "group": 1
+        },
+        {
+            "id": "Accident and Emergency department",
+            "group": 1
+        },
+        {
+            "id": "Nanotubes",
+            "group": 1
+        },
+        {
+            "id": "Cerebrovascular Disorders",
+            "group": 1
+        },
+        {
+            "id": "Intestinal Diseases",
+            "group": 1
+        },
+        {
+            "id": "X-Ray Computed Tomography",
+            "group": 1
+        },
+        {
+            "id": "Cerebrospinal Fluid",
+            "group": 1
+        },
+        {
+            "id": "Malignant neoplasm of prostate",
+            "group": 1
+        },
+        {
+            "id": "Anterior Cruciate Ligament",
+            "group": 1
+        },
+        {
+            "id": "Physiological Sexual Disorders",
+            "group": 1
+        },
+        {
+            "id": "Operative Surgical Procedures",
+            "group": 1
+        },
+        {
+            "id": "Immunosorbents",
+            "group": 1
+        },
+        {
+            "id": "Subtype (attribute)",
+            "group": 1
+        },
+        {
+            "id": "Gastroesophageal reflux disease",
+            "group": 1
+        },
+        {
+            "id": "Anatomic Node",
+            "group": 1
+        },
+        {
+            "id": "Gene Expression",
+            "group": 1
+        },
+        {
+            "id": "MicroRNAs",
+            "group": 1
+        },
+        {
+            "id": "Entity Name Part Qualifier - adopted",
+            "group": 1
+        },
+        {
+            "id": "Colitis",
+            "group": 1
+        },
+        {
+            "id": "ClinicalTrials.gov",
+            "group": 1
+        },
+        {
+            "id": "Pain management",
+            "group": 1
+        },
+        {
+            "id": "Evaluation",
+            "group": 1
+        },
+        {
+            "id": "Glomerular Filtration Rate",
+            "group": 1
+        },
+        {
+            "id": "Immunity, Innate",
+            "group": 1
+        },
+        {
+            "id": "Traumatic Brain Injury",
+            "group": 1
+        },
+        {
+            "id": "Depressive disorder",
+            "group": 1
+        },
+        {
+            "id": "Temporomandibular Joint Disorders",
+            "group": 1
+        },
+        {
+            "id": "Stent, device",
+            "group": 1
+        },
+        {
+            "id": "Carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Rupture",
+            "group": 1
+        },
+        {
+            "id": "Low Back Pain",
+            "group": 1
+        },
+        {
+            "id": "Inflammatory Bowel Diseases",
+            "group": 1
+        },
+        {
+            "id": "Malondialdehyde",
+            "group": 1
+        },
+        {
+            "id": "Adenocarcinoma",
+            "group": 1
+        },
+        {
+            "id": "Paper",
+            "group": 1
+        },
+        {
+            "id": "Prostatic Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "glucose tolerance",
+            "group": 1
+        },
+        {
+            "id": "TRANSCRIPTION FACTOR",
+            "group": 1
+        },
+        {
+            "id": "Lung Diseases, Obstructive",
+            "group": 1
+        },
+        {
+            "id": "Myeloid Leukemia",
+            "group": 1
+        },
+        {
+            "id": "Survival Rate",
+            "group": 1
+        },
+        {
+            "id": "Intestinal Microbiome",
+            "group": 1
+        },
+        {
+            "id": "Chemical and Drug Induced Liver Injury",
+            "group": 1
+        },
+        {
+            "id": "Epidemiology",
+            "group": 1
+        },
+        {
+            "id": "Fracture",
+            "group": 1
+        },
+        {
+            "id": "Infiltration",
+            "group": 1
+        },
+        {
+            "id": "Biopsy",
+            "group": 1
+        },
+        {
+            "id": "Lower Extremity",
+            "group": 1
+        },
+        {
+            "id": "Html Link Type - copyright",
+            "group": 1
+        },
+        {
+            "id": "Hemodynamics",
+            "group": 1
+        },
+        {
+            "id": "Antidepressive Agents",
+            "group": 1
+        },
+        {
+            "id": "Reticulum",
+            "group": 1
+        },
+        {
+            "id": "Stomach Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Anticoagulants",
+            "group": 1
+        },
+        {
+            "id": "Nephroblastoma",
+            "group": 1
+        },
+        {
+            "id": "Oxygen",
+            "group": 1
+        },
+        {
+            "id": "Epilepsy",
+            "group": 1
+        },
+        {
+            "id": "Diarrhea",
+            "group": 1
+        },
+        {
+            "id": "Mammary Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Cognition Disorders",
+            "group": 1
+        },
+        {
+            "id": "Endothelial Growth Factors",
+            "group": 1
+        },
+        {
+            "id": "Aortic Valve Insufficiency",
+            "group": 1
+        },
+        {
+            "id": "Surgical Flaps",
+            "group": 1
+        },
+        {
+            "id": "Pluripotent Stem Cells",
+            "group": 1
+        },
+        {
+            "id": "Postoperative Complications",
+            "group": 1
+        },
+        {
+            "id": "Upper Extremity",
+            "group": 1
+        },
+        {
+            "id": "Cumulative Trauma Disorders",
+            "group": 1
+        },
+        {
+            "id": "cancer cell",
+            "group": 1
+        },
+        {
+            "id": "Myalgia",
+            "group": 1
+        },
+        {
+            "id": "Hematologic Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "Endothelium",
+            "group": 1
+        },
+        {
+            "id": "Diagnostic Specificity",
+            "group": 1
+        },
+        {
+            "id": "Compression",
+            "group": 1
+        },
+        {
+            "id": "Deep learning",
+            "group": 1
+        },
+        {
+            "id": "Irritable Bowel Syndrome",
+            "group": 1
+        },
+        {
+            "id": "Signal Transduction",
+            "group": 1
+        },
+        {
+            "id": "Kidney Transplantation",
+            "group": 1
+        },
+        {
+            "id": "Pyschological Bonding",
+            "group": 1
+        },
+        {
+            "id": "Insertion Mutation",
+            "group": 1
+        },
+        {
+            "id": "Tissue membrane",
+            "group": 1
+        },
+        {
+            "id": "Gas Chromatography-Mass Spectrometry",
+            "group": 1
+        },
+        {
+            "id": "Renal Tissue",
+            "group": 1
+        },
+        {
+            "id": "Steroids",
+            "group": 1
+        },
+        {
+            "id": "PubMed",
+            "group": 1
+        },
+        {
+            "id": "Pathogenic organism",
+            "group": 1
+        },
+        {
+            "id": "Osteogenesis",
+            "group": 1
+        },
+        {
+            "id": "Deciduous tooth",
+            "group": 1
+        },
+        {
+            "id": "Dermatologic disorders",
+            "group": 1
+        },
+        {
+            "id": "Health Care",
+            "group": 1
+        },
+        {
+            "id": "Head and neck structure",
+            "group": 1
+        },
+        {
+            "id": "Apnea",
+            "group": 1
+        },
+        {
+            "id": "Decision",
+            "group": 1
+        },
+        {
+            "id": "Neural Network Simulation",
+            "group": 1
+        },
+        {
+            "id": "Primary Health Care",
+            "group": 1
+        },
+        {
+            "id": "cancer therapy",
+            "group": 1
+        },
+        {
+            "id": "Pain",
+            "group": 1
+        },
+        {
+            "id": "Status Epilepticus",
+            "group": 1
+        },
+        {
+            "id": "Cardiomyopathies",
+            "group": 1
+        },
+        {
+            "id": "Diabetes Mellitus",
+            "group": 1
+        },
+        {
+            "id": "Ratio",
+            "group": 1
+        },
+        {
+            "id": "Hydrogen Bonding",
+            "group": 1
+        },
+        {
+            "id": "Mortality Vital Statistics",
+            "group": 1
+        },
+        {
+            "id": "Squamous Epithelial Cells",
+            "group": 1
+        },
+        {
+            "id": "Adverse reaction to drug",
+            "group": 1
+        },
+        {
+            "id": "Ligaments",
+            "group": 1
+        },
+        {
+            "id": "Heart failure",
+            "group": 1
+        },
+        {
+            "id": "Outpatients",
+            "group": 1
+        },
+        {
+            "id": "Coronary Artery Disease",
+            "group": 1
+        },
+        {
+            "id": "ovarian neoplasm",
+            "group": 1
+        },
+        {
+            "id": "Tumor Progression",
+            "group": 1
+        },
+        {
+            "id": "Anatomic structures",
+            "group": 1
+        },
+        {
+            "id": "Small cell carcinoma of lung",
+            "group": 1
+        },
+        {
+            "id": "Chronic Lymphocytic Leukemia",
+            "group": 1
+        },
+        {
+            "id": "Chronic disease",
+            "group": 1
+        },
+        {
+            "id": "inflammatory response",
+            "group": 1
+        },
+        {
+            "id": "Transplantation of liver",
+            "group": 1
+        },
+        {
+            "id": "Homozygote",
+            "group": 1
+        },
+        {
+            "id": "Mitochondria",
+            "group": 1
+        },
+        {
+            "id": "bypass",
+            "group": 1
+        },
+        {
+            "id": "Venous Thromboembolism",
+            "group": 1
+        },
+        {
+            "id": "Memory Disorders",
+            "group": 1
+        },
+        {
+            "id": "Platelet Count measurement",
+            "group": 1
+        },
+        {
+            "id": "t test",
+            "group": 1
+        },
+        {
+            "id": "Tuberculosis",
+            "group": 1
+        },
+        {
+            "id": "heart rate",
+            "group": 1
+        },
+        {
+            "id": "Kidney Failure, Chronic",
+            "group": 1
+        },
+        {
+            "id": "peripheral blood",
+            "group": 1
+        },
+        {
+            "id": "Parkinson Disease",
+            "group": 1
+        },
+        {
+            "id": "Progression-Free Survival",
+            "group": 1
+        },
+        {
+            "id": "Cerebrovascular accident",
+            "group": 1
+        },
+        {
+            "id": "Sensorineural Hearing Loss (disorder)",
+            "group": 1
+        },
+        {
+            "id": "Clinic",
+            "group": 1
+        },
+        {
+            "id": "Blood Transfusion",
+            "group": 1
+        },
+        {
+            "id": "Triglycerides",
+            "group": 1
+        },
+        {
+            "id": "Edema",
+            "group": 1
+        },
+        {
+            "id": "CNS disorder",
+            "group": 1
+        },
+        {
+            "id": "Superoxides",
+            "group": 1
+        },
+        {
+            "id": "Attention deficit hyperactivity disorder",
+            "group": 1
+        },
+        {
+            "id": "Adenocarcinoma of lung (disorder)",
+            "group": 1
+        },
+        {
+            "id": "Cardiopulmonary",
+            "group": 1
+        },
+        {
+            "id": "Back Pain",
+            "group": 1
+        },
+        {
+            "id": "Bone Marrow",
+            "group": 1
+        },
+        {
+            "id": "Visual Accommodation",
+            "group": 1
+        },
+        {
+            "id": "nervous system disorder",
+            "group": 1
+        },
+        {
+            "id": "Nitric Oxide Synthase",
+            "group": 1
+        },
+        {
+            "id": "Alzheimer's Disease",
+            "group": 1
+        },
+        {
+            "id": "Palliative Care",
+            "group": 1
+        },
+        {
+            "id": "Hospital admission",
+            "group": 1
+        },
+        {
+            "id": "Computation",
+            "group": 1
+        },
+        {
+            "id": "Brain Injuries",
+            "group": 1
+        },
+        {
+            "id": "Liver diseases",
+            "group": 1
+        },
+        {
+            "id": "Peroxides",
+            "group": 1
+        },
+        {
+            "id": "Oxidative Stress",
+            "group": 1
+        },
+        {
+            "id": "Repeat Surgery",
+            "group": 1
+        },
+        {
+            "id": "Artificial cardiac pacemaker",
+            "group": 1
+        },
+        {
+            "id": "Body Dysmorphic Disorders",
+            "group": 1
+        },
+        {
+            "id": "Blood Platelets",
+            "group": 1
+        },
+        {
+            "id": "Plasma membrane",
+            "group": 1
+        },
+        {
+            "id": "Adipose tissue",
+            "group": 1
+        },
+        {
+            "id": "Decision Making",
+            "group": 1
+        },
+        {
+            "id": "Postoperative Nausea and Vomiting",
+            "group": 1
+        },
+        {
+            "id": "Odontogenic Tissue",
+            "group": 1
+        },
+        {
+            "id": "Body mass index",
+            "group": 1
+        },
+        {
+            "id": "Endoscopy (procedure)",
+            "group": 1
+        },
+        {
+            "id": "Spleen Tissue",
+            "group": 1
+        },
+        {
+            "id": "Cognition",
+            "group": 1
+        },
+        {
+            "id": "Superoxide Dismutase",
+            "group": 1
+        },
+        {
+            "id": "Virus Diseases",
+            "group": 1
+        },
+        {
+            "id": "cellular targeting",
+            "group": 1
+        },
+        {
+            "id": "Cell Differentiation process",
+            "group": 1
+        },
+        {
+            "id": "Abducens Nerve Diseases",
+            "group": 1
+        },
+        {
+            "id": "Obesity",
+            "group": 1
+        },
+        {
+            "id": "Unit",
+            "group": 1
+        },
+        {
+            "id": "Muscle",
+            "group": 1
+        },
+        {
+            "id": "Sturge-Weber Syndrome",
+            "group": 1
+        },
+        {
+            "id": "Resuscitation procedure",
+            "group": 1
+        },
+        {
+            "id": "Time complexity",
+            "group": 1
+        },
+        {
+            "id": "Males",
+            "group": 1
+        },
+        {
+            "id": "Hereditary Diseases",
+            "group": 1
+        },
+        {
+            "id": "Outcome Measures",
+            "group": 1
+        },
+        {
+            "id": "Bladder Neoplasm",
+            "group": 1
+        },
+        {
+            "id": "tomography",
+            "group": 1
+        },
+        {
+            "id": "Cessation of life",
+            "group": 1
+        },
+        {
+            "id": "Probability",
+            "group": 1
+        },
+        {
+            "id": "Hypoxia",
+            "group": 1
+        },
+        {
+            "id": "Lymphoma",
+            "group": 1
+        },
+        {
+            "id": "sensor (device)",
+            "group": 1
+        },
+        {
+            "id": "Dietary Supplementation",
+            "group": 1
+        },
+        {
+            "id": "Lymphoma, Non-Hodgkin",
+            "group": 1
+        },
+        {
+            "id": "Hernia",
+            "group": 1
+        },
+        {
+            "id": "Heart Diseases",
+            "group": 1
+        },
+        {
+            "id": "Copyright",
+            "group": 1
+        },
+        {
+            "id": "Respiratory Insufficiency",
+            "group": 1
+        },
+        {
+            "id": "Spleen",
+            "group": 1
+        },
+        {
+            "id": "Cytometry",
+            "group": 1
+        },
+        {
+            "id": "Cell Cycle Checkpoints",
+            "group": 1
+        },
+        {
+            "id": "Reactive Oxygen Species",
+            "group": 1
+        },
+        {
+            "id": "Cessation of smoking",
+            "group": 1
+        },
+        {
+            "id": "Kidney Diseases",
+            "group": 1
+        },
+        {
+            "id": "HIV",
+            "group": 1
+        },
+        {
+            "id": "Bipolar Disorder",
+            "group": 1
+        },
+        {
+            "id": "Glioma",
+            "group": 1
+        },
+        {
+            "id": "Scientific Publication",
+            "group": 1
+        },
+        {
+            "id": "Bone structure of tibia",
+            "group": 1
+        },
+        {
+            "id": "Progressive Disease",
+            "group": 1
+        },
+        {
+            "id": "Brain Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Ventricular Fibrillation",
+            "group": 1
+        },
+        {
+            "id": "Nucleic Acids",
+            "group": 1
+        },
+        {
+            "id": "Overweight",
+            "group": 1
+        },
+        {
+            "id": "Aorta",
+            "group": 1
+        },
+        {
+            "id": "Urinary tract infection",
+            "group": 1
+        },
+        {
+            "id": "Algorithm",
+            "group": 1
+        },
+        {
+            "id": "Patient Discharge",
+            "group": 5
+        },
+        {
+            "id": "Radionuclide Imaging",
+            "group": 1
+        },
+        {
+            "id": "Breast Carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Headache",
+            "group": 1
+        },
+        {
+            "id": "Dental caries",
+            "group": 1
+        },
+        {
+            "id": "Apoptosis",
+            "group": 1
+        },
+        {
+            "id": "Artificial nanoparticles",
+            "group": 1
+        },
+        {
+            "id": "Stratification",
+            "group": 1
+        },
+        {
+            "id": "Endoplasmic Reticulum",
+            "group": 1
+        },
+        {
+            "id": "Surgical incisions",
+            "group": 1
+        },
+        {
+            "id": "Microbiota (plant)",
+            "group": 1
+        },
+        {
+            "id": "Transplanted tissue",
+            "group": 1
+        },
+        {
+            "id": "High pressure liquid chromatography procedure",
+            "group": 1
+        },
+        {
+            "id": "Structure of parenchyma of lung",
+            "group": 1
+        },
+        {
+            "id": "Seizures",
+            "group": 1
+        },
+        {
+            "id": "Atrophic",
+            "group": 1
+        },
+        {
+            "id": "Personality Disorders",
+            "group": 1
+        },
+        {
+            "id": "Heart valve disease",
+            "group": 1
+        },
+        {
+            "id": "Rheumatoid Arthritis",
+            "group": 1
+        },
+        {
+            "id": "benefit",
+            "group": 1
+        },
+        {
+            "id": "Published Database",
+            "group": 1
+        },
+        {
+            "id": "Gastrointestinal Hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "Leukemia, Myelocytic, Acute",
+            "group": 1
+        },
+        {
+            "id": "Chronic Kidney Diseases",
+            "group": 1
+        },
+        {
+            "id": "Tertiary Healthcare",
+            "group": 1
+        },
+        {
+            "id": "Mood Disorders",
+            "group": 1
+        },
+        {
+            "id": "revascularization",
+            "group": 1
+        },
+        {
+            "id": "Pneumonia",
+            "group": 1
+        },
+        {
+            "id": "Single Nucleotide Polymorphism",
+            "group": 1
+        },
+        {
+            "id": "caspase-3",
+            "group": 1
+        },
+        {
+            "id": "Estimated Glomerular Filtration Rate",
+            "group": 1
+        },
+        {
+            "id": "Biopolymer Sequencing",
+            "group": 1
+        },
+        {
+            "id": "Body tissue",
+            "group": 1
+        },
+        {
+            "id": "Exclusion",
+            "group": 1
+        },
+        {
+            "id": "Positron-Emission Tomography",
+            "group": 1
+        },
+        {
+            "id": "Physical Examination",
+            "group": 1
+        },
+        {
+            "id": "Cultured Cell Line",
+            "group": 1
+        },
+        {
+            "id": "Stomach",
+            "group": 1
+        },
+        {
+            "id": "Mutation",
+            "group": 1
+        },
+        {
+            "id": "Glutathione",
+            "group": 1
+        },
+        {
+            "id": "Percutaneous Coronary Intervention",
+            "group": 1
+        },
+        {
+            "id": "Synthetic data",
+            "group": 1
+        },
+        {
+            "id": "Hydrogen Peroxide",
+            "group": 1
+        },
+        {
+            "id": "Western Blotting",
+            "group": 1
+        },
+        {
+            "id": "Fifty Nine",
+            "group": 1
+        },
+        {
+            "id": "Proto-Oncogene Proteins c-akt",
+            "group": 1
+        },
+        {
+            "id": "Sleep Apnea, Obstructive",
+            "group": 1
+        },
+        {
+            "id": "Colorectal Carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Nanotubes, Carbon",
+            "group": 1
+        },
+        {
+            "id": "Antiretroviral therapy",
+            "group": 1
+        },
+        {
+            "id": "Major Depressive Disorder",
+            "group": 1
+        },
+        {
+            "id": "Transcription, Genetic",
+            "group": 1
+        },
+        {
+            "id": "Atrial Fibrillation",
+            "group": 1
+        },
+        {
+            "id": "Odds Ratio",
+            "group": 1
+        },
+        {
+            "id": "tumor necrosis",
+            "group": 1
+        },
+        {
+            "id": "Cerebral Infarction",
+            "group": 1
+        },
+        {
+            "id": "Schizophrenia",
+            "group": 1
+        },
+        {
+            "id": "Biological Markers",
+            "group": 1
+        },
+        {
+            "id": "Diameter (qualifier value)",
+            "group": 1
+        },
+        {
+            "id": "mental health",
+            "group": 1
+        },
+        {
+            "id": "Increment",
+            "group": 1
+        },
+        {
+            "id": "Glucose",
+            "group": 1
+        },
+        {
+            "id": "Greater Than",
+            "group": 1
+        },
+        {
+            "id": "Leukemia, B-Cell",
+            "group": 1
+        },
+        {
+            "id": "Non-Small Cell Lung Carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Optimization problem",
+            "group": 1
+        },
+        {
+            "id": "Creatinine",
+            "group": 1
+        },
+        {
+            "id": "Visual Acuity",
+            "group": 1
+        },
+        {
+            "id": "Estrogens",
+            "group": 1
+        },
+        {
+            "id": "Carcinoma of lung",
+            "group": 1
+        },
+        {
+            "id": "Cholesterol",
+            "group": 1
+        },
+        {
+            "id": "Convolutional neural network",
+            "group": 1
+        },
+        {
+            "id": "Hemopoietic stem cell transplant",
+            "group": 1
+        },
+        {
+            "id": "Biomarkers, Tumor",
+            "group": 1
+        },
+        {
+            "id": "Nitric Oxide",
+            "group": 1
+        },
+        {
+            "id": "Validation",
+            "group": 1
+        },
+        {
+            "id": "Lipoproteins",
+            "group": 1
+        },
+        {
+            "id": "Combined Modality Therapy",
+            "group": 1
+        },
+        {
+            "id": "Hospitalization",
+            "group": 1
+        },
+        {
+            "id": "Antibiotics",
+            "group": 1
+        },
+        {
+            "id": "Mitochondrial Diseases",
+            "group": 1
+        },
+        {
+            "id": "Clinical act of insertion",
+            "group": 1
+        },
+        {
+            "id": "Degenerative polyarthritis",
+            "group": 1
+        },
+        {
+            "id": "Epithelial cell of renal tubule",
+            "group": 1
+        },
+        {
+            "id": "Cerebral cortex",
+            "group": 1
+        },
+        {
+            "id": "Chronic pain",
+            "group": 1
+        },
+        {
+            "id": "lymph node metastases",
+            "group": 1
+        },
+        {
+            "id": "Neoplastic Cell",
+            "group": 1
+        },
+        {
+            "id": "filtration",
+            "group": 1
+        },
+        {
+            "id": "Categories",
+            "group": 1
+        },
+        {
+            "id": "Lumbar Region",
+            "group": 1
+        },
+        {
+            "id": "Orthopedics",
+            "group": 1
+        },
+        {
+            "id": "Classification",
+            "group": 1
+        },
+        {
+            "id": "Sarcoma",
+            "group": 1
+        },
+        {
+            "id": "Mutation Abnormality",
+            "group": 1
+        },
+        {
+            "id": "Confidence Intervals",
+            "group": 1
+        },
+        {
+            "id": "Hepatitis B",
+            "group": 1
+        },
+        {
+            "id": "Leukocytes",
+            "group": 1
+        },
+        {
+            "id": "Obstruction",
+            "group": 1
+        },
+        {
+            "id": "intensive care",
+            "group": 1
+        },
+        {
+            "id": "Materials",
+            "group": 1
+        },
+        {
+            "id": "Artificial neural network",
+            "group": 1
+        },
+        {
+            "id": "Primary Endpoint",
+            "group": 1
+        },
+        {
+            "id": "Hazard Ratio",
+            "group": 1
+        },
+        {
+            "id": "Tissue Dissection",
+            "group": 1
+        },
+        {
+            "id": "intensive care unit",
+            "group": 1
+        },
+        {
+            "id": "Description",
+            "group": 1
+        },
+        {
+            "id": "Early Diagnosis",
+            "group": 1
+        },
+        {
+            "id": "Tandem Mass Spectrometry",
+            "group": 1
+        },
+        {
+            "id": "Blood Coagulation Disorders",
+            "group": 1
+        },
+        {
+            "id": "Critical Illness",
+            "group": 1
+        },
+        {
+            "id": "Review, Systematic",
+            "group": 1
+        },
+        {
+            "id": "Interview",
+            "group": 1
+        },
+        {
+            "id": "Tyrosine",
+            "group": 1
+        },
+        {
+            "id": "Count of entities",
+            "group": 1
+        },
+        {
+            "id": "Platelet Glycoprotein 4, human",
+            "group": 1
+        },
+        {
+            "id": "cytokine",
+            "group": 1
+        },
+        {
+            "id": "Scanning",
+            "group": 1
+        },
+        {
+            "id": "Autism Spectrum Disorders",
+            "group": 1
+        },
+        {
+            "id": "Polymerase Chain Reaction",
+            "group": 1
+        },
+        {
+            "id": "Phenotype",
+            "group": 1
+        },
+        {
+            "id": "Growth Factor",
+            "group": 1
+        },
+        {
+            "id": "Sixty Nine",
+            "group": 1
+        },
+        {
+            "id": "Forty Nine",
+            "group": 1
+        },
+        {
+            "id": "Airway structure",
+            "group": 1
+        },
+        {
+            "id": "Hyperactive behavior",
+            "group": 1
+        },
+        {
+            "id": "Massively-Parallel Sequencing",
+            "group": 1
+        },
+        {
+            "id": "Ejection fraction (procedure)",
+            "group": 1
+        },
+        {
+            "id": "Metalloproteases",
+            "group": 1
+        },
+        {
+            "id": "Stem cells",
+            "group": 1
+        },
+        {
+            "id": "Diabetes Mellitus, Non-Insulin-Dependent",
+            "group": 1
+        },
+        {
+            "id": "Deletion Mutation",
+            "group": 1
+        },
+        {
+            "id": "leukemia",
+            "group": 1
+        },
+        {
+            "id": "Enzyme-Linked Immunosorbent Assay",
+            "group": 1
+        },
+        {
+            "id": "Hematological Disease",
+            "group": 1
+        },
+        {
+            "id": "Perfusion (procedure)",
+            "group": 1
+        },
+        {
+            "id": "Differential Diagnosis",
+            "group": 1
+        },
+        {
+            "id": "Numerical analysis",
+            "group": 1
+        },
+        {
+            "id": "Simulation",
+            "group": 1
+        },
+        {
+            "id": "Myocardial Infarction",
+            "group": 1
+        },
+        {
+            "id": "recurrent childhood brain stem glioma",
+            "group": 1
+        },
+        {
+            "id": "Retina",
+            "group": 1
+        },
+        {
+            "id": "Perception",
+            "group": 1
+        },
+        {
+            "id": "Ulcerative Colitis",
+            "group": 1
+        },
+        {
+            "id": "Lung diseases",
+            "group": 1
+        },
+        {
+            "id": "Xenograft type of graft",
+            "group": 1
+        },
+        {
+            "id": "Immune response",
+            "group": 1
+        },
+        {
+            "id": "Ions",
+            "group": 1
+        },
+        {
+            "id": "Pulmonary Embolism",
+            "group": 1
+        },
+        {
+            "id": "Atherosclerosis",
+            "group": 1
+        },
+        {
+            "id": "HIV Infections",
+            "group": 1
+        },
+        {
+            "id": "Wounds and Injuries",
+            "group": 1
+        },
+        {
+            "id": "Dementia",
+            "group": 1
+        },
+        {
+            "id": "Metabolite",
+            "group": 1
+        },
+        {
+            "id": "hearing impairment",
+            "group": 1
+        },
+        {
+            "id": "Uterus",
+            "group": 1
+        },
+        {
+            "id": "Blood Glucose",
+            "group": 1
+        },
+        {
+            "id": "Stomach Carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Crohn Disease",
+            "group": 1
+        },
+        {
+            "id": "Mucous Membrane",
+            "group": 1
+        },
+        {
+            "id": "Stress Disorders, Traumatic",
+            "group": 1
+        },
+        {
+            "id": "Squamous cell carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Transplantation",
+            "group": 1
+        },
+        {
+            "id": "ovarian",
+            "group": 1
+        },
+        {
+            "id": "Lewy Body Disease",
+            "group": 1
+        },
+        {
+            "id": "Dyspnea",
+            "group": 1
+        },
+        {
+            "id": "Implants",
+            "group": 1
+        },
+        {
+            "id": "Aneurysm",
+            "group": 1
+        },
+        {
+            "id": "Bone structure of spine",
+            "group": 1
+        },
+        {
+            "id": "Catheterization",
+            "group": 1
+        },
+        {
+            "id": "Renal Cell Carcinoma",
+            "group": 1
+        },
+        {
+            "id": "mg\/kg",
+            "group": 1
+        },
+        {
+            "id": "Prognostic Factors",
+            "group": 1
+        },
+        {
+            "id": "Idiopathic Pulmonary Fibrosis",
+            "group": 1
+        },
+        {
+            "id": "Tomography, Spiral Computed",
+            "group": 1
+        },
+        {
+            "id": "Signs and Symptoms",
+            "group": 1
+        },
+        {
+            "id": "Sensor",
+            "group": 1
+        },
+        {
+            "id": "Head and Neck Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Calcium",
+            "group": 1
+        },
+        {
+            "id": "3,4-Methylenedioxyamphetamine",
+            "group": 1
+        },
+        {
+            "id": "Impaired cognition",
+            "group": 1
+        },
+        {
+            "id": "Cell Nucleus",
+            "group": 1
+        },
+        {
+            "id": "Flow Cytometry",
+            "group": 1
+        },
+        {
+            "id": "Mental disorders",
+            "group": 1
+        },
+        {
+            "id": "Drug Allergy",
+            "group": 1
+        },
+        {
+            "id": "Neurodegenerative Disorders",
+            "group": 1
+        },
+        {
+            "id": "Glioblastoma",
+            "group": 1
+        },
+        {
+            "id": "Cystic Fibrosis",
+            "group": 1
+        },
+        {
+            "id": "Embolism",
+            "group": 1
+        },
+        {
+            "id": "Cell Proliferation",
+            "group": 1
+        },
+        {
+            "id": "Hypertensive disease",
+            "group": 1
+        },
+        {
+            "id": "Neoplasm Metastasis",
+            "group": 1
+        },
+        {
+            "id": "Aortic Aneurysm, Thoracic",
+            "group": 1
+        },
+        {
+            "id": "Iontophoresis",
+            "group": 1
+        },
+        {
+            "id": "Alcohol consumption",
+            "group": 1
+        },
+        {
+            "id": "Skeletal bone",
+            "group": 1
+        },
+        {
+            "id": "Feces",
+            "group": 1
+        },
+        {
+            "id": "Mesenchymal Stem Cells",
+            "group": 1
+        },
+        {
+            "id": "Post-Traumatic Stress Disorder",
+            "group": 1
+        },
+        {
+            "id": "Joints",
+            "group": 1
+        },
+        {
+            "id": "soft tissue",
+            "group": 1
+        },
+        {
+            "id": "Metabolic Process, Cellular",
+            "group": 1
+        },
+        {
+            "id": "Arteriopathic disease",
+            "group": 1
+        },
+        {
+            "id": "Malignant neoplasm of breast",
+            "group": 1
+        },
+        {
+            "id": "Cell Survival",
+            "group": 1
+        },
+        {
+            "id": "Congenital Abnormality",
+            "group": 1
+        },
+        {
+            "id": "Autistic Disorder",
+            "group": 1
+        },
+        {
+            "id": "Stenosis",
+            "group": 1
+        },
+        {
+            "id": "PET\/CT scan",
+            "group": 1
+        },
+        {
+            "id": "Renal Insufficiency",
+            "group": 1
+        },
+        {
+            "id": "Principal Component",
+            "group": 1
+        },
+        {
+            "id": "Biological Neural Networks",
+            "group": 1
+        },
+        {
+            "id": "Liquid Chromatography",
+            "group": 1
+        },
+        {
+            "id": "Cisplatin",
+            "group": 1
+        },
+        {
+            "id": "Parkinsonian Disorders",
+            "group": 1
+        },
+        {
+            "id": "Review [Publication Type]",
+            "group": 1
+        },
+        {
+            "id": "Ultrasonography",
+            "group": 1
+        },
+        {
+            "id": "Therapeutic radiology procedure",
+            "group": 1
+        },
+        {
+            "id": "Limb structure",
+            "group": 1
+        },
+        {
+            "id": "Protein Overexpression",
+            "group": 1
+        },
+        {
+            "id": "Heterozygote",
+            "group": 1
+        },
+        {
+            "id": "Neoplasms",
+            "group": 1
+        },
+        {
+            "id": "Serum",
+            "group": 1
+        },
+        {
+            "id": "Adrenal Cortex Hormones",
+            "group": 1
+        },
+        {
+            "id": "Adverse event",
+            "group": 1
+        },
+        {
+            "id": "Matrix Metalloproteinases",
+            "group": 1
+        },
+        {
+            "id": "Principal Component Analysis",
+            "group": 1
+        },
+        {
+            "id": "Gastrointestinal Diseases",
+            "group": 1
+        },
+        {
+            "id": "Reverse Transcription",
+            "group": 1
+        },
+        {
+            "id": "Scanning Electron Microscopy",
+            "group": 1
+        },
+        {
+            "id": "Anxiety Disorders",
+            "group": 1
+        },
+        {
+            "id": "Shock",
+            "group": 1
+        },
+        {
+            "id": "In Vitro [Publication Type]",
+            "group": 1
+        },
+        {
+            "id": "Bone Density",
+            "group": 1
+        },
+        {
+            "id": "Pulmonary Valve Insufficiency",
+            "group": 1
+        },
+        {
+            "id": "Calibration",
+            "group": 1
+        },
+        {
+            "id": "Endothelial Cells",
+            "group": 1
+        },
+        {
+            "id": "Regulation",
+            "group": 1
+        },
+        {
+            "id": "Morbidity - disease rate",
+            "group": 1
+        },
+        {
+            "id": "Malignant neoplasm of ovary",
+            "group": 1
+        },
+        {
+            "id": "Carcinogenesis",
+            "group": 1
+        },
+        {
+            "id": "Cell Transplantation",
+            "group": 1
+        },
+        {
+            "id": "Patients",
+            "group": 5
+        },
+        {
+            "id": "Bone Tissue",
+            "group": 1
+        },
+        {
+            "id": "Evaluation procedure",
+            "group": 1
+        },
+        {
+            "id": "glomerular filtration",
+            "group": 1
+        },
+        {
+            "id": "Pulmonary Hypertension",
+            "group": 1
+        },
+        {
+            "id": "Insulin Resistance",
+            "group": 1
+        },
+        {
+            "id": "Amino Acids",
+            "group": 1
+        },
+        {
+            "id": "Liver Failure, Acute",
+            "group": 1
+        },
+        {
+            "id": "Cardiovascular Diseases",
+            "group": 1
+        },
+        {
+            "id": "Smoke",
+            "group": 1
+        },
+        {
+            "id": "Erythrocytes",
+            "group": 1
+        },
+        {
+            "id": "Doxorubicin",
+            "group": 1
+        },
+        {
+            "id": "Hematopoietic stem cells",
+            "group": 1
+        },
+        {
+            "id": "Vascular Diseases",
+            "group": 1
+        },
+        {
+            "id": "solid tumor",
+            "group": 1
+        },
+        {
+            "id": "Search - action",
+            "group": 1
+        },
+        {
+            "id": "Knee Replacement Arthroplasty (procedure)",
+            "group": 1
+        },
+        {
+            "id": "Regression Analysis",
+            "group": 1
+        },
+        {
+            "id": "Protein Tyrosine Kinase",
+            "group": 1
+        },
+        {
+            "id": "Liver carcinoma",
+            "group": 1
+        },
+        {
+            "id": "Patient referral",
+            "group": 5
+        },
+        {
+            "id": "Acute Coronary Syndrome",
+            "group": 1
+        },
+        {
+            "id": "Negative Predictive Value of Diagnostic Test",
+            "group": 1
+        },
+        {
+            "id": "Fatty Liver",
+            "group": 1
+        },
+        {
+            "id": "Surgical Wound Infection",
+            "group": 1
+        },
+        {
+            "id": "Stem cell transplant",
+            "group": 1
+        },
+        {
+            "id": "Chronic Obstructive Airway Disease",
+            "group": 1
+        },
+        {
+            "id": "Programs - Publication Format",
+            "group": 1
+        },
+        {
+            "id": "Thromboembolism",
+            "group": 1
+        },
+        {
+            "id": "Immunity",
+            "group": 1
+        },
+        {
+            "id": "anatomical layer",
+            "group": 1
+        },
+        {
+            "id": "promoter",
+            "group": 1
+        },
+        {
+            "id": "Multiple Sclerosis",
+            "group": 1
+        },
+        {
+            "id": "Echocardiography",
+            "group": 1
+        },
+        {
+            "id": "Plant Roots",
+            "group": 1
+        },
+        {
+            "id": "Machine learning",
+            "group": 1
+        },
+        {
+            "id": "Area Under Curve",
+            "group": 1
+        },
+        {
+            "id": "kidney injury",
+            "group": 1
+        },
+        {
+            "id": "Genetic Polymorphism",
+            "group": 1
+        },
+        {
+            "id": "Interquartile Range",
+            "group": 1
+        },
+        {
+            "id": "Cell Death",
+            "group": 1
+        },
+        {
+            "id": "Eye",
+            "group": 1
+        },
+        {
+            "id": "Quantitation",
+            "group": 1
+        },
+        {
+            "id": "Arthroplasty",
+            "group": 1
+        },
+        {
+            "id": "Kidney Failure, Acute",
+            "group": 1
+        },
+        {
+            "id": "Thrombosis",
+            "group": 1
+        },
+        {
+            "id": "Pathology",
+            "group": 1
+        },
+        {
+            "id": "Hyperglycemia",
+            "group": 1
+        },
+        {
+            "id": "Cartilage",
+            "group": 1
+        },
+        {
+            "id": "Ulcer",
+            "group": 1
+        },
+        {
+            "id": "Inflammation",
+            "group": 1
+        },
+        {
+            "id": "Fibrosis",
+            "group": 1
+        },
+        {
+            "id": "lymph nodes",
+            "group": 1
+        },
+        {
+            "id": "prognostic",
+            "group": 1
+        },
+        {
+            "id": "Overall Survival",
+            "group": 1
+        },
+        {
+            "id": "Program optimization",
+            "group": 1
+        },
+        {
+            "id": "Histopathologic Grade differentiation",
+            "group": 1
+        },
+        {
+            "id": "Staining method",
+            "group": 1
+        },
+        {
+            "id": "Syndrome",
+            "group": 1
+        },
+        {
+            "id": "Drug Delivery Systems",
+            "group": 1
+        },
+        {
+            "id": "Mass Spectrometry",
+            "group": 1
+        },
+        {
+            "id": "Magnetic Resonance Imaging",
+            "group": 1
+        },
+        {
+            "id": "Ethanol",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Patients",
+            "target": "Cerebrovascular accident",
+            "value": 5
+        },
+        {
+            "source": "Patients",
+            "target": "Classification",
+            "value": 6
+        },
+        {
+            "source": "Patients",
+            "target": "Confidence Intervals",
+            "value": 10
+        },
+        {
+            "source": "Patients",
+            "target": "Hematological Disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hypoxia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Leukocytes",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Metabolite",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Oxygen",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Ultrasonography",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Feces",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Irritable Bowel Syndrome",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Algorithm",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Body tissue",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Ethanol",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Mucous Membrane",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Oxidative Stress",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Stomach",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Ulcer",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Patient Discharge",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Sixty Nine",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Cell Proliferation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Scientific Publication",
+            "value": 6
+        },
+        {
+            "source": "Patients",
+            "target": "Adverse reaction to drug",
+            "value": 5
+        },
+        {
+            "source": "Patients",
+            "target": "Hypertensive disease",
+            "value": 5
+        },
+        {
+            "source": "Patients",
+            "target": "Smoke",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Anatomic Node",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Bone Marrow",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Immunity",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "lymph nodes",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "peripheral blood",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Shock",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Muscle",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Myalgia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Depressive disorder",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Arthroplasty",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Implants",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "X-Ray Computed Tomography",
+            "value": 7
+        },
+        {
+            "source": "Patients",
+            "target": "tomography",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Decision",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Decision Making",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Mental disorders",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Leukemia, B-Cell",
+            "value": 5
+        },
+        {
+            "source": "Patients",
+            "target": "Phenotype",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Regulation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Increment",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Limb structure",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Temporomandibular Joint Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "hearing impairment",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Cell Transplantation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Forty Nine",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Leukemia, Myelocytic, Acute",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Myeloid Leukemia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Platelet Count measurement",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Prognostic Factors",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Stem cells",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Therapeutic radiology procedure",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Immune response",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "In Vitro [Publication Type]",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Infiltration",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Rheumatoid Arthritis",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Cell Differentiation process",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Chronic Obstructive Airway Disease",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Hemopoietic stem cell transplant",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Stem cell transplant",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Calcium",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Diabetes Mellitus",
+            "value": 6
+        },
+        {
+            "source": "Patients",
+            "target": "Pathogenic organism",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Syndrome",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Aorta",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Obstruction",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Ligaments",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Creatinine",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Ejection fraction (procedure)",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Endothelium",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Heart Diseases",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Heart failure",
+            "value": 5
+        },
+        {
+            "source": "Patients",
+            "target": "Inflammation",
+            "value": 5
+        },
+        {
+            "source": "Patients",
+            "target": "Carcinoma of lung",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Structure of parenchyma of lung",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Anxiety Disorders",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Chronic pain",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Pain",
+            "value": 10
+        },
+        {
+            "source": "Patients",
+            "target": "Dietary Supplementation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Entity Name Part Qualifier - adopted",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Transcription, Genetic",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "CNS disorder",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "benefit",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Alleles",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Blood Cells",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Genetic Polymorphism",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Dermatologic disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Fever",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Lower Extremity",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Physical Examination",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Biomarkers, Tumor",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Diagnostic Specificity",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Malignant Neoplasms",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Dental caries",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Kidney Diseases",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Kidney Transplantation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Bone Tissue",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Epilepsy",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Visual Acuity",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Glucose",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Tissue membrane",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Blood Glucose",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Count of entities",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Visual Accommodation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Lymphoma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Categories",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Health Care",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Lymphoma, Non-Hodgkin",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Progressive Disease",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Airway structure",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Idiopathic Pulmonary Fibrosis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Pulmonary Valve Insufficiency",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Status Epilepticus",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Survivors",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Thromboembolism",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Vascular Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Platelet Glycoprotein 4, human",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Ligands",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Pneumonia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Seizures",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Surgical Flaps",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Unit",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Gene Expression",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Schizophrenia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Parkinson Disease",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Parkinsonian Disorders",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Programs - Publication Format",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Renal Tissue",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "prognostic",
+            "value": 7
+        },
+        {
+            "source": "Patients",
+            "target": "Calibration",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Protein Overexpression",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Diabetes Mellitus, Non-Insulin-Dependent",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Cerebrospinal Fluid",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Lumbar Region",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Blood Transfusion",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Gastrointestinal Hemorrhage",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hospital admission",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Morbidity - disease rate",
+            "value": 8
+        },
+        {
+            "source": "Patients",
+            "target": "Brain Injuries",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Wounds and Injuries",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Congenital Abnormality",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Head and neck structure",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hereditary Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Osteogenesis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "soft tissue",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Sturge-Weber Syndrome",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Cultured Cell Line",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Liver Failure, Acute",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Liver diseases",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Body Dysmorphic Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Anatomic structures",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Tissue Dissection",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "cellular targeting",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Degenerative polyarthritis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Virus Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "cytokine",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Description",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Regression Analysis",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Atrial Fibrillation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Ventricular Fibrillation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Steroids",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Tuberculosis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Neoplasm Metastasis",
+            "value": 6
+        },
+        {
+            "source": "Patients",
+            "target": "Orthopedics",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Outcome Measures",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hyperactive behavior",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Atherosclerosis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Perfusion (procedure)",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Biological Markers",
+            "value": 7
+        },
+        {
+            "source": "Patients",
+            "target": "Carcinoma",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Head and Neck Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Squamous cell carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Edema",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Headache",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Neurodegenerative Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Atrophic",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Signal Transduction",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Accident and Emergency department",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Cell Cycle Checkpoints",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Mutation",
+            "value": 7
+        },
+        {
+            "source": "Patients",
+            "target": "Colorectal Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "MicroRNAs",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Drug Allergy",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Compression",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hernia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Review [Publication Type]",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Stomach Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Deciduous tooth",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Liver carcinoma",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Overall Survival",
+            "value": 6
+        },
+        {
+            "source": "Patients",
+            "target": "Transplantation of liver",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Erythrocytes",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "tumor necrosis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Glioma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "PubMed",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Cardiomyopathies",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Hemodynamics",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Cholesterol",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Fracture",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Bipolar Disorder",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Blood Platelets",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Attention deficit hyperactivity disorder",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Chronic disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Blood Vessel Tissue",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Apoptosis",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Ratio",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Fibrosis",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Growth Factor",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Males",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Scanning",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Palliative care service",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Validation",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Cardiovascular Diseases",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Aneurysm",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Coronary artery",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Tomography, Spiral Computed",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Sleep Apnea Syndromes",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Postoperative Complications",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Anticoagulants",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Memory Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Magnetic Resonance Imaging",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Thrombosis",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Chemical and Drug Induced Liver Injury",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Staining method",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Plain x-ray",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Metabolic Process, Cellular",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Serum",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "cancer cell",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Bone structure of tibia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Knee Replacement Arthroplasty (procedure)",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Diameter (qualifier value)",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Surgical incisions",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Bone structure of spine",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Body mass index",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Probability",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Transplanted tissue",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Single Nucleotide Polymorphism",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "heart rate",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Resuscitation procedure",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Heart valve disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Outpatients",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Insertion Mutation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Arteriopathic disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Cardiopulmonary",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Coronary Artery Disease",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Mass Spectrometry",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "bypass",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "revascularization",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Epithelial cell of renal tubule",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Physiological Sexual Disorders",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Adenocarcinoma",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Gastrointestinal Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Respiratory Insufficiency",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "intensive care unit",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Epidemiology",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Flow Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Obesity",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Early Diagnosis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Antibiotics",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Sepsis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Biopsy",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Non-Small Cell Lung Carcinoma",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Endoscopy (procedure)",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Cerebral Infarction",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Infarction",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Myocardial Infarction",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Operative Surgical Procedures",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Stenosis",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Multiple Sclerosis",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Alzheimer's Disease",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Sarcoma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Survival Rate",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "ovarian",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "ovarian neoplasm",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Small cell carcinoma of lung",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Published Database",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Stratification",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "HIV Infections",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Hepatitis B",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Biologic Preservation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "recurrent childhood brain stem glioma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Combined Modality Therapy",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Mortality Vital Statistics",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "intensive care",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Evaluation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Paper",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Venous Thromboembolism",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Prostatic Neoplasms",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Blood Coagulation Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Pathology",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Heterozygote",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Echocardiography",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Inflammatory Bowel Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Intestinal Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Mood Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Urinary tract infection",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Transplantation",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Clinic",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Adrenal Cortex Hormones",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Aortic Valve Insufficiency",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Repeat Surgery",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Bladder Neoplasm",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Catheterization",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Critical Illness",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Primary Health Care",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Exclusion",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Upper Extremity",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Rupture",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Adverse event",
+            "value": 4
+        },
+        {
+            "source": "Patients",
+            "target": "Evaluation procedure",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Palliative Care",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Review, Systematic",
+            "value": 3
+        },
+        {
+            "source": "Patients",
+            "target": "Differential Diagnosis",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Artificial cardiac pacemaker",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Signs and Symptoms",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Chronic Kidney Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hazard Ratio",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Subtype (attribute)",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Lewy Body Disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Back Pain",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Odds Ratio",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Renal Insufficiency",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Gastroesophageal reflux disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Dementia",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Dyspnea",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Lung diseases",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Odontogenic Tissue",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Copyright",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Diarrhea",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Search - action",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Tyrosine",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "t test",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Pulmonary Hypertension",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Cumulative Trauma Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Percutaneous Coronary Intervention",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Stent, device",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Kidney Failure, Chronic",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Cerebrovascular Disorders",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Fifty Nine",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Massively-Parallel Sequencing",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Patient referral",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "ClinicalTrials.gov",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Protein Tyrosine Kinase",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Lung Diseases, Obstructive",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Surgical Wound Infection",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Hematologic Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Tertiary Healthcare",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Progression-Free Survival",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Crohn Disease",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Renal Cell Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "PET\/CT scan",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Acute Coronary Syndrome",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Abducens Nerve Diseases",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Negative Predictive Value of Diagnostic Test",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Area Under Curve",
+            "value": 2
+        },
+        {
+            "source": "Patients",
+            "target": "Primary Endpoint",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Interquartile Range",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Postoperative Nausea and Vomiting",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Html Link Type - copyright",
+            "value": 1
+        },
+        {
+            "source": "Cerebrovascular accident",
+            "target": "Confidence Intervals",
+            "value": 1
+        },
+        {
+            "source": "Cerebrovascular accident",
+            "target": "Cardiovascular Diseases",
+            "value": 1
+        },
+        {
+            "source": "Cerebrovascular accident",
+            "target": "Cerebral Infarction",
+            "value": 1
+        },
+        {
+            "source": "Cerebrovascular accident",
+            "target": "Infarction",
+            "value": 1
+        },
+        {
+            "source": "Cerebrovascular accident",
+            "target": "Myocardial Infarction",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Diabetes Mellitus",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "prognostic",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Overall Survival",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Ratio",
+            "value": 2
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Infarction",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Myocardial Infarction",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Review, Systematic",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Hazard Ratio",
+            "value": 1
+        },
+        {
+            "source": "Confidence Intervals",
+            "target": "Odds Ratio",
+            "value": 1
+        },
+        {
+            "source": "Hypoxia",
+            "target": "Oxygen",
+            "value": 1
+        },
+        {
+            "source": "Metabolite",
+            "target": "Metabolic Process, Cellular",
+            "value": 1
+        },
+        {
+            "source": "Nitric Oxide",
+            "target": "Nitric Oxide Synthase",
+            "value": 1
+        },
+        {
+            "source": "Oxygen",
+            "target": "Oxidative Stress",
+            "value": 2
+        },
+        {
+            "source": "Oxygen",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Oxygen",
+            "target": "Reactive Oxygen Species",
+            "value": 4
+        },
+        {
+            "source": "Irritable Bowel Syndrome",
+            "target": "Inflammatory Bowel Diseases",
+            "value": 1
+        },
+        {
+            "source": "Irritable Bowel Syndrome",
+            "target": "Intestinal Diseases",
+            "value": 1
+        },
+        {
+            "source": "Microbiota (plant)",
+            "target": "Intestinal Microbiome",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Gradient",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Simulation",
+            "value": 3
+        },
+        {
+            "source": "Algorithm",
+            "target": "Computation",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Program optimization",
+            "value": 2
+        },
+        {
+            "source": "Algorithm",
+            "target": "Artificial neural network",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Experiment",
+            "value": 2
+        },
+        {
+            "source": "Algorithm",
+            "target": "Synthetic data",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Time complexity",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Validation",
+            "value": 1
+        },
+        {
+            "source": "Algorithm",
+            "target": "Machine learning",
+            "value": 2
+        },
+        {
+            "source": "Algorithm",
+            "target": "Deep learning",
+            "value": 1
+        },
+        {
+            "source": "Body tissue",
+            "target": "Cell Proliferation",
+            "value": 1
+        },
+        {
+            "source": "Body tissue",
+            "target": "Leukemia, B-Cell",
+            "value": 1
+        },
+        {
+            "source": "Body tissue",
+            "target": "Regulation",
+            "value": 1
+        },
+        {
+            "source": "Body tissue",
+            "target": "Gene Expression",
+            "value": 1
+        },
+        {
+            "source": "Body tissue",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Body tissue",
+            "target": "cancer cell",
+            "value": 1
+        },
+        {
+            "source": "Ethanol",
+            "target": "Alcohol consumption",
+            "value": 3
+        },
+        {
+            "source": "Oxidative Stress",
+            "target": "Glutathione",
+            "value": 1
+        },
+        {
+            "source": "Oxidative Stress",
+            "target": "Inflammation",
+            "value": 1
+        },
+        {
+            "source": "Oxidative Stress",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Oxidative Stress",
+            "target": "Reactive Oxygen Species",
+            "value": 1
+        },
+        {
+            "source": "Oxidative Stress",
+            "target": "Superoxides",
+            "value": 1
+        },
+        {
+            "source": "Stomach",
+            "target": "Stomach Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Stomach",
+            "target": "Stomach Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Cell Proliferation",
+            "target": "Leukemia, B-Cell",
+            "value": 1
+        },
+        {
+            "source": "Cell Proliferation",
+            "target": "Protein Overexpression",
+            "value": 1
+        },
+        {
+            "source": "Cell Proliferation",
+            "target": "Cultured Cell Line",
+            "value": 1
+        },
+        {
+            "source": "Cell Proliferation",
+            "target": "Apoptosis",
+            "value": 2
+        },
+        {
+            "source": "Cell Proliferation",
+            "target": "cancer cell",
+            "value": 1
+        },
+        {
+            "source": "Scientific Publication",
+            "target": "PubMed",
+            "value": 2
+        },
+        {
+            "source": "Scientific Publication",
+            "target": "Paper",
+            "value": 1
+        },
+        {
+            "source": "Scientific Publication",
+            "target": "Review, Systematic",
+            "value": 1
+        },
+        {
+            "source": "Adverse reaction to drug",
+            "target": "Therapeutic radiology procedure",
+            "value": 1
+        },
+        {
+            "source": "Adverse reaction to drug",
+            "target": "Artificial nanoparticles",
+            "value": 1
+        },
+        {
+            "source": "Adverse reaction to drug",
+            "target": "Adverse event",
+            "value": 1
+        },
+        {
+            "source": "Hypertensive disease",
+            "target": "Diabetes Mellitus",
+            "value": 1
+        },
+        {
+            "source": "Hypertensive disease",
+            "target": "Kidney Diseases",
+            "value": 1
+        },
+        {
+            "source": "Hypertensive disease",
+            "target": "Cardiovascular Diseases",
+            "value": 1
+        },
+        {
+            "source": "Hypertensive disease",
+            "target": "Pulmonary Hypertension",
+            "value": 1
+        },
+        {
+            "source": "Smoke",
+            "target": "Cessation of smoking",
+            "value": 1
+        },
+        {
+            "source": "Anatomic Node",
+            "target": "lymph nodes",
+            "value": 1
+        },
+        {
+            "source": "Bone Marrow",
+            "target": "Stem cells",
+            "value": 1
+        },
+        {
+            "source": "Immunity",
+            "target": "Immune response",
+            "value": 1
+        },
+        {
+            "source": "Immunity",
+            "target": "Immunity, Innate",
+            "value": 1
+        },
+        {
+            "source": "Spleen",
+            "target": "Spleen Tissue",
+            "value": 1
+        },
+        {
+            "source": "lymph nodes",
+            "target": "lymph node metastases",
+            "value": 1
+        },
+        {
+            "source": "Muscle",
+            "target": "Myalgia",
+            "value": 1
+        },
+        {
+            "source": "Depressive disorder",
+            "target": "Mental disorders",
+            "value": 3
+        },
+        {
+            "source": "Depressive disorder",
+            "target": "Anxiety Disorders",
+            "value": 4
+        },
+        {
+            "source": "Depressive disorder",
+            "target": "Major Depressive Disorder",
+            "value": 1
+        },
+        {
+            "source": "Depressive disorder",
+            "target": "mental health",
+            "value": 1
+        },
+        {
+            "source": "Mitochondria",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Mitochondria",
+            "target": "Mitochondrial Diseases",
+            "value": 1
+        },
+        {
+            "source": "Arthroplasty",
+            "target": "Knee Replacement Arthroplasty (procedure)",
+            "value": 1
+        },
+        {
+            "source": "X-Ray Computed Tomography",
+            "target": "tomography",
+            "value": 2
+        },
+        {
+            "source": "X-Ray Computed Tomography",
+            "target": "Bone Tissue",
+            "value": 1
+        },
+        {
+            "source": "X-Ray Computed Tomography",
+            "target": "Scanning",
+            "value": 1
+        },
+        {
+            "source": "tomography",
+            "target": "Positron-Emission Tomography",
+            "value": 1
+        },
+        {
+            "source": "Decision",
+            "target": "Decision Making",
+            "value": 1
+        },
+        {
+            "source": "Mental disorders",
+            "target": "Anxiety Disorders",
+            "value": 2
+        },
+        {
+            "source": "Mental disorders",
+            "target": "Schizophrenia",
+            "value": 1
+        },
+        {
+            "source": "Mental disorders",
+            "target": "Attention deficit hyperactivity disorder",
+            "value": 1
+        },
+        {
+            "source": "Mental disorders",
+            "target": "mental health",
+            "value": 2
+        },
+        {
+            "source": "Simulation",
+            "target": "Numerical analysis",
+            "value": 1
+        },
+        {
+            "source": "Simulation",
+            "target": "Program optimization",
+            "value": 1
+        },
+        {
+            "source": "Simulation",
+            "target": "Experiment",
+            "value": 1
+        },
+        {
+            "source": "Leukemia, B-Cell",
+            "target": "Stem cells",
+            "value": 2
+        },
+        {
+            "source": "Leukemia, B-Cell",
+            "target": "Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Leukemia, B-Cell",
+            "target": "Lymphoma",
+            "value": 1
+        },
+        {
+            "source": "Leukemia, B-Cell",
+            "target": "Cultured Cell Line",
+            "value": 1
+        },
+        {
+            "source": "Leukemia, B-Cell",
+            "target": "Apoptosis",
+            "value": 2
+        },
+        {
+            "source": "Leukemia, B-Cell",
+            "target": "cancer cell",
+            "value": 1
+        },
+        {
+            "source": "Phenotype",
+            "target": "Mutation",
+            "value": 1
+        },
+        {
+            "source": "Regulation",
+            "target": "TRANSCRIPTION FACTOR",
+            "value": 1
+        },
+        {
+            "source": "Regulation",
+            "target": "Gene Expression",
+            "value": 1
+        },
+        {
+            "source": "Regulation",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "TRANSCRIPTION FACTOR",
+            "target": "Transcription, Genetic",
+            "value": 2
+        },
+        {
+            "source": "TRANSCRIPTION FACTOR",
+            "target": "Gene Expression",
+            "value": 1
+        },
+        {
+            "source": "Joints",
+            "target": "Cartilage",
+            "value": 1
+        },
+        {
+            "source": "Sensorineural Hearing Loss (disorder)",
+            "target": "hearing impairment",
+            "value": 1
+        },
+        {
+            "source": "Cell Transplantation",
+            "target": "Stem cells",
+            "value": 1
+        },
+        {
+            "source": "Cell Transplantation",
+            "target": "Hemopoietic stem cell transplant",
+            "value": 1
+        },
+        {
+            "source": "Cell Transplantation",
+            "target": "Stem cell transplant",
+            "value": 1
+        },
+        {
+            "source": "Prognostic Factors",
+            "target": "prognostic",
+            "value": 2
+        },
+        {
+            "source": "Prognostic Factors",
+            "target": "Overall Survival",
+            "value": 1
+        },
+        {
+            "source": "Stem cells",
+            "target": "Cell Differentiation process",
+            "value": 1
+        },
+        {
+            "source": "Stem cells",
+            "target": "Hematopoietic stem cells",
+            "value": 1
+        },
+        {
+            "source": "Stem cells",
+            "target": "Histopathologic Grade differentiation",
+            "value": 1
+        },
+        {
+            "source": "Stem cells",
+            "target": "Stem cell transplant",
+            "value": 1
+        },
+        {
+            "source": "Stem cells",
+            "target": "Pluripotent Stem Cells",
+            "value": 1
+        },
+        {
+            "source": "Stem cells",
+            "target": "Mesenchymal Stem Cells",
+            "value": 2
+        },
+        {
+            "source": "Immune response",
+            "target": "Inflammation",
+            "value": 1
+        },
+        {
+            "source": "Chronic Obstructive Airway Disease",
+            "target": "Lung diseases",
+            "value": 1
+        },
+        {
+            "source": "Chronic Obstructive Airway Disease",
+            "target": "Lung Diseases, Obstructive",
+            "value": 1
+        },
+        {
+            "source": "Hemopoietic stem cell transplant",
+            "target": "Stem cell transplant",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Kidney Diseases",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Glucose",
+            "value": 2
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Blood Glucose",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Diabetes Mellitus, Non-Insulin-Dependent",
+            "value": 5
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Cholesterol",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Cardiovascular Diseases",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus",
+            "target": "Hyperglycemia",
+            "value": 1
+        },
+        {
+            "source": "Reticulum",
+            "target": "Endoplasmic Reticulum",
+            "value": 2
+        },
+        {
+            "source": "Pathogenic organism",
+            "target": "Mutation",
+            "value": 1
+        },
+        {
+            "source": "Optimization problem",
+            "target": "Program optimization",
+            "value": 1
+        },
+        {
+            "source": "Aorta",
+            "target": "Aneurysm",
+            "value": 1
+        },
+        {
+            "source": "Aorta",
+            "target": "Aortic Valve Insufficiency",
+            "value": 1
+        },
+        {
+            "source": "Ligaments",
+            "target": "Anterior Cruciate Ligament",
+            "value": 1
+        },
+        {
+            "source": "Creatinine",
+            "target": "Kidney Diseases",
+            "value": 1
+        },
+        {
+            "source": "Cytometry",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Cytometry",
+            "target": "Flow Cytometry",
+            "value": 4
+        },
+        {
+            "source": "Ejection fraction (procedure)",
+            "target": "Heart failure",
+            "value": 1
+        },
+        {
+            "source": "Endothelium",
+            "target": "Inflammation",
+            "value": 1
+        },
+        {
+            "source": "Endothelium",
+            "target": "Endothelial Cells",
+            "value": 3
+        },
+        {
+            "source": "Endothelium",
+            "target": "Endothelial Growth Factors",
+            "value": 1
+        },
+        {
+            "source": "Endothelium",
+            "target": "Growth Factor",
+            "value": 1
+        },
+        {
+            "source": "Heart Diseases",
+            "target": "Heart failure",
+            "value": 1
+        },
+        {
+            "source": "Inflammation",
+            "target": "cytokine",
+            "value": 2
+        },
+        {
+            "source": "Inflammation",
+            "target": "tumor necrosis",
+            "value": 1
+        },
+        {
+            "source": "Inflammation",
+            "target": "Fibrosis",
+            "value": 1
+        },
+        {
+            "source": "Inflammation",
+            "target": "inflammatory response",
+            "value": 1
+        },
+        {
+            "source": "Inflammation",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Carcinoma of lung",
+            "target": "Non-Small Cell Lung Carcinoma",
+            "value": 3
+        },
+        {
+            "source": "Carcinoma of lung",
+            "target": "Small cell carcinoma of lung",
+            "value": 2
+        },
+        {
+            "source": "Structure of parenchyma of lung",
+            "target": "Lung diseases",
+            "value": 1
+        },
+        {
+            "source": "Chronic pain",
+            "target": "Pain",
+            "value": 1
+        },
+        {
+            "source": "Pain",
+            "target": "Degenerative polyarthritis",
+            "value": 1
+        },
+        {
+            "source": "Pain",
+            "target": "Back Pain",
+            "value": 1
+        },
+        {
+            "source": "Pain",
+            "target": "Pain management",
+            "value": 1
+        },
+        {
+            "source": "Plants",
+            "target": "Plant Roots",
+            "value": 1
+        },
+        {
+            "source": "Transcription, Genetic",
+            "target": "Gene Expression",
+            "value": 1
+        },
+        {
+            "source": "Transcription, Genetic",
+            "target": "promoter",
+            "value": 1
+        },
+        {
+            "source": "Alleles",
+            "target": "Genetic Polymorphism",
+            "value": 1
+        },
+        {
+            "source": "Genetic Polymorphism",
+            "target": "Single Nucleotide Polymorphism",
+            "value": 1
+        },
+        {
+            "source": "Colitis",
+            "target": "Ulcerative Colitis",
+            "value": 1
+        },
+        {
+            "source": "Malignant Neoplasms",
+            "target": "cancer cell",
+            "value": 1
+        },
+        {
+            "source": "Kidney Diseases",
+            "target": "Renal Tissue",
+            "value": 1
+        },
+        {
+            "source": "Kidney Diseases",
+            "target": "Chronic Kidney Diseases",
+            "value": 1
+        },
+        {
+            "source": "Kidney Diseases",
+            "target": "Kidney Failure, Chronic",
+            "value": 2
+        },
+        {
+            "source": "Artificial neural network",
+            "target": "Biological Neural Networks",
+            "value": 1
+        },
+        {
+            "source": "Artificial neural network",
+            "target": "Neural Network Simulation",
+            "value": 1
+        },
+        {
+            "source": "Artificial neural network",
+            "target": "Deep learning",
+            "value": 1
+        },
+        {
+            "source": "Artificial neural network",
+            "target": "Convolutional neural network",
+            "value": 1
+        },
+        {
+            "source": "Materials",
+            "target": "anatomical layer",
+            "value": 1
+        },
+        {
+            "source": "Materials",
+            "target": "Ions",
+            "value": 1
+        },
+        {
+            "source": "Materials",
+            "target": "Artificial nanoparticles",
+            "value": 1
+        },
+        {
+            "source": "Bone Density",
+            "target": "Bone Tissue",
+            "value": 1
+        },
+        {
+            "source": "Bone Tissue",
+            "target": "Osteogenesis",
+            "value": 1
+        },
+        {
+            "source": "Bone Tissue",
+            "target": "Fracture",
+            "value": 1
+        },
+        {
+            "source": "Bone Tissue",
+            "target": "Skeletal bone",
+            "value": 1
+        },
+        {
+            "source": "Epilepsy",
+            "target": "Seizures",
+            "value": 2
+        },
+        {
+            "source": "Glucose",
+            "target": "Blood Glucose",
+            "value": 1
+        },
+        {
+            "source": "Glucose",
+            "target": "Diabetes Mellitus, Non-Insulin-Dependent",
+            "value": 1
+        },
+        {
+            "source": "Glucose",
+            "target": "Metabolic Process, Cellular",
+            "value": 1
+        },
+        {
+            "source": "Glucose",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Glucose",
+            "target": "Impaired glucose tolerance",
+            "value": 1
+        },
+        {
+            "source": "Glucose",
+            "target": "Insulin Resistance",
+            "value": 1
+        },
+        {
+            "source": "Glucose",
+            "target": "glucose tolerance",
+            "value": 1
+        },
+        {
+            "source": "Plasma membrane",
+            "target": "Tissue membrane",
+            "value": 1
+        },
+        {
+            "source": "Lymphoma",
+            "target": "Lymphoma, Non-Hodgkin",
+            "value": 1
+        },
+        {
+            "source": "Platelet Glycoprotein 4, human",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Parkinson Disease",
+            "target": "Parkinsonian Disorders",
+            "value": 3
+        },
+        {
+            "source": "prognostic",
+            "target": "Biological Markers",
+            "value": 1
+        },
+        {
+            "source": "prognostic",
+            "target": "Overall Survival",
+            "value": 2
+        },
+        {
+            "source": "Protein Overexpression",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Diabetes Mellitus, Non-Insulin-Dependent",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Malignant neoplasm of prostate",
+            "target": "Prostatic Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Brain Injuries",
+            "target": "Traumatic Brain Injury",
+            "value": 1
+        },
+        {
+            "source": "Head and neck structure",
+            "target": "Head and Neck Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Cultured Cell Line",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Cultured Cell Line",
+            "target": "cancer cell",
+            "value": 2
+        },
+        {
+            "source": "Fatty Liver",
+            "target": "Liver diseases",
+            "value": 1
+        },
+        {
+            "source": "Liver diseases",
+            "target": "Fibrosis",
+            "value": 1
+        },
+        {
+            "source": "Liver diseases",
+            "target": "Chemical and Drug Induced Liver Injury",
+            "value": 1
+        },
+        {
+            "source": "Body Dysmorphic Disorders",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Ions",
+            "target": "Iontophoresis",
+            "value": 1
+        },
+        {
+            "source": "Ions",
+            "target": "Mass Spectrometry",
+            "value": 1
+        },
+        {
+            "source": "Metalloproteases",
+            "target": "Matrix Metalloproteinases",
+            "value": 1
+        },
+        {
+            "source": "cellular targeting",
+            "target": "cancer cell",
+            "value": 1
+        },
+        {
+            "source": "Virus Diseases",
+            "target": "HIV Infections",
+            "value": 1
+        },
+        {
+            "source": "cytokine",
+            "target": "tumor necrosis",
+            "value": 1
+        },
+        {
+            "source": "Hyperactive behavior",
+            "target": "Attention deficit hyperactivity disorder",
+            "value": 1
+        },
+        {
+            "source": "Squamous Epithelial Cells",
+            "target": "Squamous cell carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Neurodegenerative Disorders",
+            "target": "Alzheimer's Disease",
+            "value": 1
+        },
+        {
+            "source": "Mutation",
+            "target": "Heterozygote",
+            "value": 1
+        },
+        {
+            "source": "Mutation",
+            "target": "Deletion Mutation",
+            "value": 1
+        },
+        {
+            "source": "Mutation",
+            "target": "Mutation Abnormality",
+            "value": 1
+        },
+        {
+            "source": "Mutation",
+            "target": "Homozygote",
+            "value": 1
+        },
+        {
+            "source": "Mutation",
+            "target": "Massively-Parallel Sequencing",
+            "value": 1
+        },
+        {
+            "source": "PubMed",
+            "target": "Published Database",
+            "value": 1
+        },
+        {
+            "source": "PubMed",
+            "target": "Review, Systematic",
+            "value": 1
+        },
+        {
+            "source": "PubMed",
+            "target": "Search - action",
+            "value": 1
+        },
+        {
+            "source": "Cholesterol",
+            "target": "Triglycerides",
+            "value": 1
+        },
+        {
+            "source": "Cholesterol",
+            "target": "Lipoproteins",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "Autophagy",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "Proto-Oncogene Proteins c-akt",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "caspase-3",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "cancer cell",
+            "value": 3
+        },
+        {
+            "source": "Apoptosis",
+            "target": "Flow Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "Reactive Oxygen Species",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "Cell Survival",
+            "value": 1
+        },
+        {
+            "source": "Apoptosis",
+            "target": "Cell Death",
+            "value": 2
+        },
+        {
+            "source": "Ratio",
+            "target": "Odds Ratio",
+            "value": 2
+        },
+        {
+            "source": "Fibrosis",
+            "target": "Cystic Fibrosis",
+            "value": 1
+        },
+        {
+            "source": "Endothelial Growth Factors",
+            "target": "Growth Factor",
+            "value": 1
+        },
+        {
+            "source": "Palliative care service",
+            "target": "Palliative Care",
+            "value": 1
+        },
+        {
+            "source": "Aneurysm",
+            "target": "Aortic Aneurysm, Thoracic",
+            "value": 1
+        },
+        {
+            "source": "Coronary artery",
+            "target": "Arteriopathic disease",
+            "value": 1
+        },
+        {
+            "source": "Coronary artery",
+            "target": "Coronary Artery Disease",
+            "value": 2
+        },
+        {
+            "source": "Sleep Apnea Syndromes",
+            "target": "Sleep Apnea, Obstructive",
+            "value": 1
+        },
+        {
+            "source": "Sleep Apnea Syndromes",
+            "target": "Apnea",
+            "value": 1
+        },
+        {
+            "source": "Chemical and Drug Induced Liver Injury",
+            "target": "Hepatitis B",
+            "value": 1
+        },
+        {
+            "source": "Metabolic Process, Cellular",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Radionuclide Imaging",
+            "target": "Scanning Electron Microscopy",
+            "value": 2
+        },
+        {
+            "source": "cancer cell",
+            "target": "Cell Death",
+            "value": 1
+        },
+        {
+            "source": "Body mass index",
+            "target": "Obesity",
+            "value": 1
+        },
+        {
+            "source": "Sleep Apnea, Obstructive",
+            "target": "Apnea",
+            "value": 1
+        },
+        {
+            "source": "Principal Component Analysis",
+            "target": "Principal Component",
+            "value": 1
+        },
+        {
+            "source": "Nanotubes",
+            "target": "Nanotubes, Carbon",
+            "value": 1
+        },
+        {
+            "source": "Insertion Mutation",
+            "target": "Clinical act of insertion",
+            "value": 2
+        },
+        {
+            "source": "Arteriopathic disease",
+            "target": "Coronary Artery Disease",
+            "value": 1
+        },
+        {
+            "source": "Mass Spectrometry",
+            "target": "Tandem Mass Spectrometry",
+            "value": 2
+        },
+        {
+            "source": "Mass Spectrometry",
+            "target": "Liquid Chromatography",
+            "value": 3
+        },
+        {
+            "source": "Mass Spectrometry",
+            "target": "Gas Chromatography-Mass Spectrometry",
+            "value": 1
+        },
+        {
+            "source": "Tandem Mass Spectrometry",
+            "target": "Liquid Chromatography",
+            "value": 2
+        },
+        {
+            "source": "Epithelial cell of renal tubule",
+            "target": "Renal Cell Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Adenocarcinoma",
+            "target": "Adenocarcinoma of lung (disorder)",
+            "value": 1
+        },
+        {
+            "source": "intensive care unit",
+            "target": "intensive care",
+            "value": 1
+        },
+        {
+            "source": "Obesity",
+            "target": "Adipose tissue",
+            "value": 1
+        },
+        {
+            "source": "Obesity",
+            "target": "Overweight",
+            "value": 2
+        },
+        {
+            "source": "Obesity",
+            "target": "Insulin Resistance",
+            "value": 1
+        },
+        {
+            "source": "High pressure liquid chromatography procedure",
+            "target": "Liquid Chromatography",
+            "value": 1
+        },
+        {
+            "source": "Non-Small Cell Lung Carcinoma",
+            "target": "Small cell carcinoma of lung",
+            "value": 1
+        },
+        {
+            "source": "Infarction",
+            "target": "Myocardial Infarction",
+            "value": 4
+        },
+        {
+            "source": "Peroxides",
+            "target": "Hydrogen Peroxide",
+            "value": 1
+        },
+        {
+            "source": "Alzheimer's Disease",
+            "target": "Dementia",
+            "value": 1
+        },
+        {
+            "source": "Malignant neoplasm of ovary",
+            "target": "ovarian",
+            "value": 1
+        },
+        {
+            "source": "Malignant neoplasm of ovary",
+            "target": "ovarian neoplasm",
+            "value": 1
+        },
+        {
+            "source": "ovarian",
+            "target": "ovarian neoplasm",
+            "value": 2
+        },
+        {
+            "source": "Published Database",
+            "target": "Review, Systematic",
+            "value": 1
+        },
+        {
+            "source": "HIV Infections",
+            "target": "HIV",
+            "value": 1
+        },
+        {
+            "source": "HIV Infections",
+            "target": "Antiretroviral therapy",
+            "value": 1
+        },
+        {
+            "source": "filtration",
+            "target": "Glomerular Filtration Rate",
+            "value": 1
+        },
+        {
+            "source": "filtration",
+            "target": "glomerular filtration",
+            "value": 1
+        },
+        {
+            "source": "Post-Traumatic Stress Disorder",
+            "target": "Stress Disorders, Traumatic",
+            "value": 1
+        },
+        {
+            "source": "Inflammatory Bowel Diseases",
+            "target": "Intestinal Diseases",
+            "value": 1
+        },
+        {
+            "source": "Pyschological Bonding",
+            "target": "Hydrogen Bonding",
+            "value": 1
+        },
+        {
+            "source": "Cell Nucleus",
+            "target": "Nucleic Acids",
+            "value": 1
+        },
+        {
+            "source": "Enzyme-Linked Immunosorbent Assay",
+            "target": "Immunosorbents",
+            "value": 1
+        },
+        {
+            "source": "Back Pain",
+            "target": "Low Back Pain",
+            "value": 1
+        },
+        {
+            "source": "Lung diseases",
+            "target": "Lung Diseases, Obstructive",
+            "value": 1
+        },
+        {
+            "source": "Glomerular Filtration Rate",
+            "target": "glomerular filtration",
+            "value": 1
+        },
+        {
+            "source": "Glomerular Filtration Rate",
+            "target": "Estimated Glomerular Filtration Rate",
+            "value": 1
+        },
+        {
+            "source": "glomerular filtration",
+            "target": "Estimated Glomerular Filtration Rate",
+            "value": 1
+        },
+        {
+            "source": "Tyrosine",
+            "target": "Protein Tyrosine Kinase",
+            "value": 1
+        },
+        {
+            "source": "Embolism",
+            "target": "Pulmonary Embolism",
+            "value": 1
+        },
+        {
+            "source": "Superoxide Dismutase",
+            "target": "Superoxides",
+            "value": 1
+        },
+        {
+            "source": "3,4-Methylenedioxyamphetamine",
+            "target": "Malondialdehyde",
+            "value": 1
+        },
+        {
+            "source": "Autistic Disorder",
+            "target": "Autism Spectrum Disorders",
+            "value": 2
+        },
+        {
+            "source": "Kidney Failure, Acute",
+            "target": "kidney injury",
+            "value": 1
+        },
+        {
+            "source": "Patients",
+            "target": "Uterus",
+            "value": 1
+        },
+        {
+            "source": "Amino Acids",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "Biopolymer Sequencing",
+            "target": "Patients",
+            "value": 2
+        },
+        {
+            "source": "Biopolymer Sequencing",
+            "target": "Mutation",
+            "value": 1
+        },
+        {
+            "source": "Biopolymer Sequencing",
+            "target": "Massively-Parallel Sequencing",
+            "value": 1
+        },
+        {
+            "source": "Polymerase Chain Reaction",
+            "target": "Reverse Transcription",
+            "value": 1
+        },
+        {
+            "source": "Polymerase Chain Reaction",
+            "target": "Patients",
+            "value": 2
+        },
+        {
+            "source": "Interview",
+            "target": "Patients",
+            "value": 2
+        },
+        {
+            "source": "Perception",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "Eye",
+            "target": "Retina",
+            "value": 1
+        },
+        {
+            "source": "Eye",
+            "target": "Patients",
+            "value": 3
+        },
+        {
+            "source": "Eye",
+            "target": "Visual Acuity",
+            "value": 1
+        },
+        {
+            "source": "Hemorrhage",
+            "target": "Cessation of life",
+            "value": 1
+        },
+        {
+            "source": "Hemorrhage",
+            "target": "Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Hemorrhage",
+            "target": "Patients",
+            "value": 6
+        },
+        {
+            "source": "Hemorrhage",
+            "target": "Gastrointestinal Hemorrhage",
+            "value": 1
+        },
+        {
+            "source": "Hemorrhage",
+            "target": "Morbidity - disease rate",
+            "value": 1
+        },
+        {
+            "source": "Retina",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "Retina",
+            "target": "tomography",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Impaired cognition",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Patients",
+            "value": 3
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Depressive disorder",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Mental disorders",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Cognition",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Memory Disorders",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Alzheimer's Disease",
+            "value": 1
+        },
+        {
+            "source": "Cognition Disorders",
+            "target": "Dementia",
+            "value": 1
+        },
+        {
+            "source": "Greater Than",
+            "target": "Patients",
+            "value": 2
+        },
+        {
+            "source": "Quantitation",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "Sensor",
+            "target": "sensor (device)",
+            "value": 1
+        },
+        {
+            "source": "Chronic Lymphocytic Leukemia",
+            "target": "leukemia",
+            "value": 1
+        },
+        {
+            "source": "Chronic Lymphocytic Leukemia",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "leukemia",
+            "target": "Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "leukemia",
+            "target": "Patients",
+            "value": 3
+        },
+        {
+            "source": "leukemia",
+            "target": "Leukemia, B-Cell",
+            "value": 1
+        },
+        {
+            "source": "leukemia",
+            "target": "Leukemia, Myelocytic, Acute",
+            "value": 1
+        },
+        {
+            "source": "leukemia",
+            "target": "Myeloid Leukemia",
+            "value": 1
+        },
+        {
+            "source": "Cerebral cortex",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "Western Blotting",
+            "target": "Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Western Blotting",
+            "target": "Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Western Blotting",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Western Blotting",
+            "target": "Flow Cytometry",
+            "value": 1
+        },
+        {
+            "source": "mg\/kg",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "nervous system disorder",
+            "target": "Patients",
+            "value": 4
+        },
+        {
+            "source": "nervous system disorder",
+            "target": "Parkinson Disease",
+            "value": 1
+        },
+        {
+            "source": "nervous system disorder",
+            "target": "Neurodegenerative Disorders",
+            "value": 1
+        },
+        {
+            "source": "Antidepressive Agents",
+            "target": "Depressive disorder",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Hospitalization",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Neoplasms",
+            "value": 3
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Patients",
+            "value": 13
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Cerebrovascular accident",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Confidence Intervals",
+            "value": 2
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Leukemia, B-Cell",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Heart failure",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "prognostic",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Morbidity - disease rate",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Overall Survival",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Apoptosis",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Infarction",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Myocardial Infarction",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Mortality Vital Statistics",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Adverse event",
+            "value": 1
+        },
+        {
+            "source": "Cessation of life",
+            "target": "Cell Death",
+            "value": 2
+        },
+        {
+            "source": "Estrogens",
+            "target": "Mammary Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Estrogens",
+            "target": "Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Estrogens",
+            "target": "Patients",
+            "value": 1
+        },
+        {
+            "source": "Hospitalization",
+            "target": "Patients",
+            "value": 4
+        },
+        {
+            "source": "Malignant neoplasm of breast",
+            "target": "Mammary Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Malignant neoplasm of breast",
+            "target": "Breast Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Mammary Neoplasms",
+            "target": "Neoplasms",
+            "value": 4
+        },
+        {
+            "source": "Mammary Neoplasms",
+            "target": "Patients",
+            "value": 4
+        },
+        {
+            "source": "Mammary Neoplasms",
+            "target": "cancer cell",
+            "value": 1
+        },
+        {
+            "source": "Mammary Neoplasms",
+            "target": "Breast Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Patients",
+            "value": 30
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Classification",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Confidence Intervals",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Body tissue",
+            "value": 4
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Stomach",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cell Proliferation",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Scientific Publication",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Adverse reaction to drug",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Anatomic Node",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "lymph nodes",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "X-Ray Computed Tomography",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Leukemia, B-Cell",
+            "value": 5
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Regulation",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Prognostic Factors",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Stem cells",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Therapeutic radiology procedure",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Immune response",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "In Vitro [Publication Type]",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cell Differentiation process",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Histopathologic Grade differentiation",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Endothelium",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Inflammation",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Carcinoma of lung",
+            "value": 3
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Structure of parenchyma of lung",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Pain",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Transcription, Genetic",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "benefit",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Biomarkers, Tumor",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Diagnostic Specificity",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Malignant Neoplasms",
+            "value": 6
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Lymphoma",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Ligands",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Gene Expression",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "prognostic",
+            "value": 4
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Protein Overexpression",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Morbidity - disease rate",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cultured Cell Line",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "cellular targeting",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Neoplasm Metastasis",
+            "value": 4
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Biological Markers",
+            "value": 4
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Carcinogenesis",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Carcinoma",
+            "value": 3
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Drug Delivery Systems",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Squamous Epithelial Cells",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Squamous cell carcinoma",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Tumor Suppressor Genes",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cell Cycle Checkpoints",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Mutation",
+            "value": 3
+        },
+        {
+            "source": "Neoplasms",
+            "target": "MicroRNAs",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Personality Disorders",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Stomach Carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Liver carcinoma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Overall Survival",
+            "value": 4
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Brain Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Glioblastoma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Glioma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "cancer therapy",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Apoptosis",
+            "value": 4
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Proto-Oncogene Proteins c-akt",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Growth Factor",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Staining method",
+            "value": 2
+        },
+        {
+            "source": "Neoplasms",
+            "target": "cancer cell",
+            "value": 5
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Neoplastic Cell",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Diameter (qualifier value)",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Artificial nanoparticles",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Epithelial cell of renal tubule",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Adenocarcinoma",
+            "value": 3
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Flow Cytometry",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Biopsy",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Non-Small Cell Lung Carcinoma",
+            "value": 3
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Sarcoma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Malignant neoplasm of ovary",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "ovarian",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "ovarian neoplasm",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Small cell carcinoma of lung",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Combined Modality Therapy",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Prostatic Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Mutation Abnormality",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Exclusion",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Subtype (attribute)",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Nephroblastoma",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Tumor Progression",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cell Death",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Cisplatin",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "solid tumor",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Doxorubicin",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Massively-Parallel Sequencing",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Xenograft type of graft",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Hematologic Neoplasms",
+            "value": 1
+        },
+        {
+            "source": "Neoplasms",
+            "target": "Renal Cell Carcinoma",
+            "value": 1
+        }
+    ]
+}
